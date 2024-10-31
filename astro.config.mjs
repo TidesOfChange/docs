@@ -7,16 +7,16 @@ export default defineConfig({
   base: "/SYN100_TRPG",
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "SYN TRPG",
       social: {
         github: "https://github.com/withastro/starlight",
       },
       sidebar: [
         {
-          label: "Guides",
+          label: "Start Here",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
+            { label: "Getting Started", slug: "getting_started/home" },
           ],
         },
         {
