@@ -45,7 +45,7 @@ export default defineConfig({
             { label: "Lumea", slug: "regions/lumea" },
             { label: "Karkorte", slug: "regions/karkorte" },
             { label: "Grønn", slug: "regions/grønn" },
-            // { label: "NA", slug: "regions/NA" },
+            { label: "Sylvangrove", slug: "regions/sylvangrove" },
           ],
         },
         {
