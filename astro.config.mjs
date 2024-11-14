@@ -5,6 +5,10 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   site: "https://l1joseph.github.io",
   base: "/Tides-of-Change",
+  logo: {
+    light: "./src/assets/toc_logo.webp",
+    dark: "./src/assets/toc_logo_dark.webp",
+  },
   integrations: [
     starlight({
       title: "Tides of Change",
@@ -18,14 +22,20 @@ export default defineConfig({
             // Each item here is one entry in the navigation menu.
             { label: "Introduction", slug: "getting_started/intro" },
             { label: "Rules", slug: "getting_started/rules" },
-            { label: "Character Creation", slug: "getting_started/character_creation" },
+            {
+              label: "Character Creation",
+              slug: "getting_started/character_creation",
+            },
           ],
         },
         {
           label: "Regions",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Aeolian Archipelago", slug: "regions/aeolian_archipelago" },
+            {
+              label: "Aeolian Archipelago",
+              slug: "regions/aeolian_archipelago",
+            },
             { label: "Lumea", slug: "regions/lumea" },
             { label: "Karkorte", slug: "regions/karkorte" },
             { label: "Lumea", slug: "regions/lumea" },
@@ -55,7 +65,10 @@ export default defineConfig({
           label: "Character",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Character Creation Form", slug: "character/character_creation_form" },
+            {
+              label: "Character Creation Form",
+              slug: "character/character_creation_form",
+            },
           ],
         },
         {
