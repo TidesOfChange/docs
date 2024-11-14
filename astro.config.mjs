@@ -5,13 +5,13 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   site: "https://l1joseph.github.io",
   base: "/Tides-of-Change",
-  logo: {
-    light: "./src/assets/toc_logo.webp",
-    dark: "./src/assets/toc_logo_dark.webp",
-  },
   integrations: [
     starlight({
       title: "Tides of Change",
+      logo: {
+        light: "./src/assets/toc_logo.webp",
+        dark: "./src/assets/toc_logo_dark.webp",
+      },
       social: {
         github: "https://github.com/withastro/starlight",
       },
