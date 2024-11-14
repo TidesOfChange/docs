@@ -21,11 +21,17 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Introduction", slug: "getting_started/intro" },
-            { label: "Rules", slug: "getting_started/rules" },
             {
               label: "Character Creation",
               slug: "getting_started/character_creation",
             },
+          ],
+        },
+        {
+          label: "Rules",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: "Combat", slug: "rules/combat" },
           ],
         },
         {
