@@ -1,6 +1,6 @@
-# Realm Quest TRPG 🎲🗺️
+# Tides of Change TRPG 🎲🗺️
 
-An interactive web-based companion for the Realm Quest tabletop roleplaying game system. Access game rules, character creation guides, and lore all in one place.
+An interactive web-based companion for the Tides of Change tabletop roleplaying game system. Access game rules, character creation guides, and lore all in one place.
 
 ## 🌟 Features
 
@@ -128,4 +128,4 @@ Visit our [live demo](https://realm-quest-demo.com) to try out the system.
 
 ---
 
-Made with ❤️ by the Realm Quest Team
+Made with ❤️ by the Tides of Change Team

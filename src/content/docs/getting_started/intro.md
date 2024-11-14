@@ -1,6 +1,7 @@
 ---
-title: Getting Started
-description: TRPG Starter
+title: Introduction
+description: Welcome to Tides of Change
+tableOfContents: false
 ---
 
-# Test
+Welcome to Tides of Change
