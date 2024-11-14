@@ -46,18 +46,27 @@ export default defineConfig({
           label: "Species",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "species 1", slug: "species/species1" },
-            // { label: "species 2", slug: "species/species2" },
-            // { label: "species 3", slug: "species/species3" },
-            // { label: "species 4", slug: "species/species4" },
-            // { label: "species 5", slug: "species/species5" },
+            { label: "Mutated Humans", slug: "species/mutated-humans" },
+            { label: "Woodland Creatures", slug: "species/woodland-creatures" },
+            { label: "Bird Pirates", slug: "species/bird-pirates" },
+            { label: "Ecotopians", slug: "species/ecotopians" },
+            { label: "Aqualumeans", slug: "species/aqualumeans" },
           ],
         },
         {
           label: "Class",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "species 1", slug: "species/species1" },
+            { label: "Scavenger", slug: "class/scavenger" },
+            { label: "Hunter", slug: "class/hunter" },
+            { label: "Ranger", slug: "class/ranger" },
+            { label: "Enchanter", slug: "class/enchanter" },
+            { label: "Ecotechnicians", slug: "class/ecotechnicians" },
+            { label: "Public Servants", slug: "class/public-servants" },
+            { label: "Cloudrunners", slug: "class/cloudrunners" },
+            { label: "Skycallers", slug: "class/skycallers" },
+            { label: "Farmers", slug: "class/farmers" },
+            { label: "Seed Keepers", slug: "class/seed-keepers" }
           ],
         },
         {
