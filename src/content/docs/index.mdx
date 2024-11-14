@@ -13,11 +13,14 @@ hero:
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard } from '@astrojs/starlight/components';
 
 ## Quick Links
 
 <CardGrid stagger> 
-	<Card title="Character Creation Form" icon="pencil">
-		Edit `src/content/docs/character/CCF` to see this page change.
-	</Card>
+	<LinkCard
+	title="Character Creation Form"
+	href="./character/character_creation_form"
+	description="Configure Starlight to support multiple languages."
+	/>
 </CardGrid>

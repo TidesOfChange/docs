@@ -38,7 +38,6 @@ export default defineConfig({
             },
             { label: "Lumea", slug: "regions/lumea" },
             { label: "Karkorte", slug: "regions/karkorte" },
-            { label: "Lumea", slug: "regions/lumea" },
             { label: "Grønn", slug: "regions/grønn" },
             // { label: "NA", slug: "regions/NA" },
           ],
