@@ -4,10 +4,10 @@ import starlight from "@astrojs/starlight";
 // https://astro.build/config
 export default defineConfig({
   site: "https://l1joseph.github.io",
-  base: "/SYN100_TRPG",
+  base: "/Tides-of-Change",
   integrations: [
     starlight({
-      title: "SYN TRPG",
+      title: "Tides of Change",
       social: {
         github: "https://github.com/withastro/starlight",
       },
@@ -55,7 +55,7 @@ export default defineConfig({
           label: "Character",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Character Creation Form", slug: "species/species1" },
+            { label: "Character Creation Form", slug: "character/character_creation_form" },
           ],
         },
         {
