@@ -37,7 +37,7 @@ export default defineConfig({
         {
           label: "Regions",
           items: [
-            // Each item here is one entry in the navigation menu.
+            { label: "Map of Regions", slug: "regions/map" },
             {
               label: "Aeolian Archipelago",
               slug: "regions/aeolian_archipelago",
