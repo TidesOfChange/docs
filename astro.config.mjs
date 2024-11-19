@@ -31,7 +31,11 @@ export default defineConfig({
           label: "Rules",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Combat", slug: "rules/combat" },
+            { label: "Checks", slug: "rules/checks" },
+            { label: "Character Leveling", slug: "rules/character_leveling" },
+            { label: "Magic", slug: "rules/magic" },
+            { label: "Resources", slug: "rules/resources" },
+            { label: "Technology", slug: "rules/technology" },
           ],
         },
         {
