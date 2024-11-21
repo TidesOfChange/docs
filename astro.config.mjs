@@ -42,13 +42,14 @@ export default defineConfig({
           label: "Regions",
           items: [
             { label: "Map of Regions", slug: "regions/map" },
+            { label: "Mainland", slug: "regions/mainland" },
             {
               label: "Aeolian Archipelago",
               slug: "regions/aeolian_archipelago",
             },
             { label: "Lumea", slug: "regions/lumea" },
             { label: "Karkorte", slug: "regions/karkorte" },
-            { label: "Grønn", slug: "regions/grønn" },
+            { label: "Grønn Verden", slug: "regions/grønn-verden" },
             { label: "Sylvangrove", slug: "regions/sylvangrove" },
           ],
         },

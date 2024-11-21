@@ -1,5 +1,5 @@
 ---
-title: World Map
+title: Regions Map
 description: Map of all the regions in Tides of Change
 tableOfContents: false
   
