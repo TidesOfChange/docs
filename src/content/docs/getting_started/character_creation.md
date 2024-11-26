@@ -18,9 +18,9 @@ Additional levels in rank can be accrued by spending 10x the new level in XP to 
 **Example:** leveling an attribute from rank 4 to 5 would cost 50XP
 
 ## Skills in Tides of Change
-Each species and background will have five skills that are most relevant to distribute 10 points among (10 skills and 20 points total). Characters will start with an additional 10 points that can be distributed among any skills they choose. 
+Each species and background will have five skills that are most relevant to distribute 10 points among (10 skills and 20 points total). Characters will start with an additional 5 points that can be distributed among any skills they choose. 
 - Core skills that all species/backgrounds can develop: see list below
-- + 1 unique background skill: TBD by group (some groups may come up with the same type of skill, and that’s fine, but it should just be unique from the core list below. Eg. maybe there’s an empathy skill that increases trust with other characters, or a forgery skill that allows for forging of documents or items, or a gardening skill that allows players to successfully grow plants, etc.)
+- \+ 1 unique background skill: TBD by group (some groups may come up with the same type of skill, and that’s fine, but it should just be unique from the core list below. Eg. maybe there’s an empathy skill that increases trust with other characters, or a forgery skill that allows for forging of documents or items, or a gardening skill that allows players to successfully grow plants, etc.)
 
 Skills also rank in 0-5, with the same modifiers as attributes. To determine modifiers to dice rolls, players would combine the modifier for the relevant attribute and relevant skill. (E.g. A player has rank 4 in agility, and rank 3 in acrobatics, so in order to run across multiple rooftops in a city, they would add a total of +5 to their check). Skills can be leveled up by spending 5x new rank in XP (e.g. going from rank 3 to rank 4 would cost 20XP)
 
