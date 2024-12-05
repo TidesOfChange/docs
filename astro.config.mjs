@@ -66,6 +66,7 @@ export default defineConfig({
             { label: "Bird Pirates", slug: "species/bird-pirates" },
             { label: "Ecotopians", slug: "species/ecotopians" },
             { label: "Aqualumeans", slug: "species/aqualumeans" },
+            { label: "Lumea Humans", slug: "species/lumea-humans" },
           ],
         },
         {
