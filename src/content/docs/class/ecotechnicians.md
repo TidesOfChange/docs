@@ -3,4 +3,29 @@ title: Getting Started
 description: TRPG Starter
 ---
 
-# Test
+## Ecotechnicians
+
+**Description:**  
+Sustainable engineers that harness the potential of synergizing technology with nature. Ecotechnics as a discipline traces its origin to the late stages of pre-apocalyptic Earth when people began to realize that reliance on technology or the natural environment in isolation would not be enough for their survival. Instead, ecotechnicians dedicate their lives to discovering and perfecting techniques to make creations that are inspired by and leverage the strengths of natural phenomena.
+
+Their unique approach to innovation unlocks the full potential of engineering while still existing in harmony with nature. When tasked with building settlements, ecotechnicians make structures that incorporate insights from plants that root them strongly in the ground and promote the recycling of resources in its environment. For communications and computing systems, they draw inspiration from mushrooms and their intricate mycelium networks to build connections with unparalleled speed and coordination.
+
+Overall, ecotechnicians are well-versed in both mechanical and natural knowledge, giving them a uniquely solid awareness of almost any type of surroundings. Due to their frequent use of tools and heavy materials, this has led to ecotechnicians becoming rather strong people.
+
+## Background Bonuses:
+- **Skill Bonuses:** Force, Foraging, Cybernetics, Mechanics, Awareness
+- **Unique Skill:** Inventing — Ability to create novel technology in unfamiliar situations.
+- **Unique Expertise:** Environmentalism
+- **Equipment:**
+  - An Ecotechnical Multi-Tool that enhances all technological abilities and can be used as a weapon in a pinch.
+  - A mycelium-based neural network device that can streamline deduction and research.
+  - A hard hat for protection.
+
+## Expertise Tree
+| **Expertise Tree**          | **Rank 1**                                                                    | **Rank 2**                                                                  | **Rank 3**                                                                  |
+|------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **Environmentalism**         | Can slightly draw power and inspiration from natural surroundings (+1)       | Can moderately draw power and inspiration from natural surroundings (+2)   | Can significantly draw power and inspiration from natural surroundings (+3) |
+| **Eco-techno-synthesis**     | Can make slightly complicated ecotechnologies (+1)                           | Can make moderately complicated ecotechnologies (+2)                       | Can make significantly complicated ecotechnologies (+3)                     |
+| **Mycelial Neural Networking** | Slightly boosts deduction and knowledge (+1)                                | Moderately boosts deduction and knowledge (+2)                             | Significantly boosts deduction and knowledge (+3)                           |
+
+---

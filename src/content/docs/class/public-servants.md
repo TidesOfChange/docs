@@ -3,4 +3,30 @@ title: Getting Started
 description: TRPG Starter
 ---
 
-# Test
+
+## Public Servants
+
+**Description:**  
+Civically minded diplomats who jump at the opportunity to lead people. Every era of Earth has seen these types of people in some form or another, and the current one is no different. As landscapes and ways of life across the planet have transformed rapidly in the current era, it is now more important than ever to have inspiring leaders who know how to connect disparate groups of people and negotiate nuanced decisions.
+
+Public servants tend to be people who place a lot of value in empowering the public, promoting free thinking, and fostering community cooperation. As part of their training, they learn anything and everything that could benefit a civil society, such as leadership, negotiation, persuasion, and the law. Their focus on understanding people and abstract rules makes public servants extremely sharp when reading situations or using logical thinking.
+
+Due to their constant interactions in the public sphere, you can expect any public servant to have a wide net of connections, whether they be allies or opponents.
+
+## Background Bonuses:
+- **Skill Bonuses:** Deduction, Insight, Leadership, Bartering, Charm
+- **Unique Skill:** Civics — Understanding laws and the organization of society.
+- **Unique Expertise:** Negotiation
+- **Equipment:**
+  - Sharp clothing that boosts personality skills.
+  - A comprehensive book on legal history.
+  - A geopolitical map of the world.
+
+## Expertise Tree
+| **Expertise Tree**   | **Rank 1**                                                        | **Rank 2**                                                        | **Rank 3**                                                        |
+|-----------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| **Negotiation**       | Slightly more persuasive in convincing a hostile to cooperate (+1) | Moderately more persuasive in convincing a hostile to cooperate (+2) | Significantly more persuasive in convincing a hostile to cooperate (+3) |
+| **Inspiration**       | Slightly boosts stats of two allies at a time (+1)               | Moderately boosts stats of four allies at a time (+2)             | Significantly boosts stats of an entire party of allies (+3)      |
+| **Authority**         | Convince authority figures to grant slight aid to the party (+1) | Convince authority figures to grant moderate aid to the party (+2) | Convince authority figures to grant significant aid to the party (+3) |
+
+---
