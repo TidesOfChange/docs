@@ -1,0 +1,128 @@
+---
+title: "Character Creation Form"
+description: "Create your custom character by selecting region, species, and class."
+---
+
+# Character Creation Form
+
+Welcome to the **Character Creation Form**! Use the form below to select your character's region, species, and class. Once you've completed the form, you can download your character's details.
+
+<form method="POST" style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #20232a; border: 1px solid #333; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif; color: #ffffff;">
+  <h2 style="color: #61dafb; font-size: 1.8em; margin-bottom: 15px;">Select a Region</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <label for="region-map" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Map of Regions
+      <input type="radio" id="region-map" name="region" value="Map of Regions" style="display: none;" />
+    </label>
+    <label for="region-mainland" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Mainland
+      <input type="radio" id="region-mainland" name="region" value="Mainland" style="display: none;" />
+    </label>
+    <label for="region-aeolian" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Aeolian Archipelago
+      <input type="radio" id="region-aeolian" name="region" value="Aeolian Archipelago" style="display: none;" />
+    </label>
+    <label for="region-lumea" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Lumea
+      <input type="radio" id="region-lumea" name="region" value="Lumea" style="display: none;" />
+    </label>
+    <label for="region-karkorte" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Karkorte
+      <input type="radio" id="region-karkorte" name="region" value="Karkorte" style="display: none;" />
+    </label>
+    <label for="region-gronn" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Grønn Verden
+      <input type="radio" id="region-gronn" name="region" value="Grønn Verden" style="display: none;" />
+    </label>
+    <label for="region-sylvangrove" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Sylvangrove
+      <input type="radio" id="region-sylvangrove" name="region" value="Sylvangrove" style="display: none;" />
+    </label>
+  </div>
+
+  <h2 style="color: #61dafb; font-size: 1.8em; margin-top: 25px;">Select a Species</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <label for="species-humans" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Mutated Humans
+      <input type="radio" id="species-humans" name="species" value="Mutated Humans" style="display: none;" />
+    </label>
+    <label for="species-woodland" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Woodland Creatures
+      <input type="radio" id="species-woodland" name="species" value="Woodland Creatures" style="display: none;" />
+    </label>
+    <label for="species-pirates" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Bird Pirates
+      <input type="radio" id="species-pirates" name="species" value="Bird Pirates" style="display: none;" />
+    </label>
+    <label for="species-ecotopians" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Ecotopians
+      <input type="radio" id="species-ecotopians" name="species" value="Ecotopians" style="display: none;" />
+    </label>
+    <label for="species-aqualumeans" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Aqualumeans
+      <input type="radio" id="species-aqualumeans" name="species" value="Aqualumeans" style="display: none;" />
+    </label>
+  </div>
+
+  <h2 style="color: #61dafb; font-size: 1.8em; margin-top: 25px;">Select a Class</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <label for="class-scavenger" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Scavenger
+      <input type="radio" id="class-scavenger" name="class" value="Scavenger" style="display: none;" />
+    </label>
+    <label for="class-hunter" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Hunter
+      <input type="radio" id="class-hunter" name="class" value="Hunter" style="display: none;" />
+    </label>
+    <label for="class-ranger" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Ranger
+      <input type="radio" id="class-ranger" name="class" value="Ranger" style="display: none;" />
+    </label>
+    <label for="class-enchanter" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Enchanter
+      <input type="radio" id="class-enchanter" name="class" value="Enchanter" style="display: none;" />
+    </label>
+    <label for="class-ecotechnicians" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Ecotechnicians
+      <input type="radio" id="class-ecotechnicians" name="class" value="Ecotechnicians" style="display: none;" />
+    </label>
+    <label for="class-public-servants" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Public Servants
+      <input type="radio" id="class-public-servants" name="class" value="Public Servants" style="display: none;" />
+    </label>
+    <label for="class-cloudrunners" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Cloudrunners
+      <input type="radio" id="class-cloudrunners" name="class" value="Cloudrunners" style="display: none;" />
+    </label>
+    <label for="class-skycallers" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Skycallers
+      <input type="radio" id="class-skycallers" name="class" value="Skycallers" style="display: none;" />
+    </label>
+    <label for="class-farmers" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Farmers
+      <input type="radio" id="class-farmers" name="class" value="Farmers" style="display: none;" />
+    </label>
+    <label for="class-seed-keepers" style="width: 150px; height: 50px; background-color: #333; color: #fff; border: 2px solid #61dafb; border-radius: 8px; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s ease;">
+      Seed Keepers
+      <input type="radio" id="class-seed-keepers" name="class" value="Seed Keepers" style="display: none;" />
+    </label>
+  </div>
+
+  <button type="submit" style="margin-top: 30px; padding: 12px 25px; background-color: #61dafb; color: #20232a; border: none; border-radius: 5px; cursor: pointer; font-size: 1.2em; font-weight: bold; text-align: center;">Submit Your Character</button>
+</form>
+
+
+
+
+
+
+
+
+## Form Explanation
+
+This form allows you to create a character by selecting the following options:
+- **Region**: Choose the world your character is from.
+- **Species**: Define the origin of your character.
+- **Class**: Determine the role and abilities of your character.
+
+---

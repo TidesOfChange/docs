@@ -90,7 +90,7 @@ export default defineConfig({
             // Each item here is one entry in the navigation menu.
             {
               label: "Character Creation Form",
-              slug: "character/character_creation_form",
+              slug: "character/form",
             },
           ],
         },
