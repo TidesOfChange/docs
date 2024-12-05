@@ -66,6 +66,7 @@ export default defineConfig({
             { label: "Bird Pirates", slug: "species/bird-pirates" },
             { label: "Ecotopians", slug: "species/ecotopians" },
             { label: "Aqualumeans", slug: "species/aqualumeans" },
+            { label: "Lumea Humans", slug: "species/lumea-humans" },
           ],
         },
         {
@@ -82,6 +83,24 @@ export default defineConfig({
             { label: "Skycallers", slug: "class/skycallers" },
             { label: "Farmers", slug: "class/farmers" },
             { label: "Seed Keepers", slug: "class/seed-keepers" }
+          ],
+        },
+        {
+          label: "Campaigns",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            {
+              label: "Lumea - Save an Aqualumean child",
+              slug: "campaigns/save-aqualumean-child",
+            },
+            {
+              label: "Lumea - Save Astralyss, the kidnapped Celestial Dragon",
+              slug: "campaigns/save-astralyss",
+            },
+            {
+              label: "Lumea - Scientists Divided in Atlantis",
+              slug: "campaigns/scientists-divided-in-atlantis",
+            },
           ],
         },
         {
