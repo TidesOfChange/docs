@@ -6,7 +6,7 @@ import starlight from "@astrojs/starlight";
 // https://astro.build/config
 export default defineConfig({
   site: "https://tidesofchange.github.io",
-  base: "/Tides-of-Change",
+  base: "/TRPG",
   integrations: [
     starlight({
       title: "Tides of Change",
