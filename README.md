@@ -1,131 +1,127 @@
-# Tides of Change TRPG 🎲🗺️
+# Tides of Change TRPG Website - Developer Guide
 
-An interactive web-based companion for the Tides of Change tabletop roleplaying game system. Access game rules, character creation guides, and lore all in one place.
+## Overview
 
-## 🌟 Features
-
-- **Interactive Rule System**
-  - Quick reference guides
-  - Searchable rules database
-  - Visual explanations of complex mechanics
-  - Printable cheat sheets
-
-- **Character Creation Tools**
-  - Step-by-step character builder
-  - Class and race guides
-  - Equipment calculator
-  - Character sheet generator
-
-- **Game Master Resources**
-  - NPC generator
-  - Encounter calculator
-  - Loot table generator
-  - Campaign planning tools
-
-- **World Lore**
-  - Interactive world map
-  - Faction relationships
-  - Historical timeline
-  - Location descriptions
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v16.0.0 or higher)
-- MongoDB (v5.0 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/realm-quest-trpg.git
-cd realm-quest-trpg
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Configure environment variables
-```bash
-cp .env.example .env
-# Edit .env with your configuration
-```
-
-4. Start the development server
-```bash
-npm run dev
-```
-
-Visit `http://localhost:3000` to see the application.
-
-## 📚 Documentation
-
-Detailed documentation is available in the `/docs` directory:
-
-- [System Requirements](docs/system-requirements.md)
-- [Development Guide](docs/development-guide.md)
-- [API Documentation](docs/api-docs.md)
-- [Contributing Guidelines](docs/contributing.md)
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js, TailwindCSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: JWT, Auth0
-- **Testing**: Jest, Cypress
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
-
-1. Code of Conduct
-2. Development process
-3. How to submit pull requests
-4. Bug reporting
-5. Feature requests
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🎮 Live Demo
-
-Visit our [live demo](https://realm-quest-demo.com) to try out the system.
-
-## 📞 Support
-
-- Create an issue in this repository
-- Join our [Discord community](https://discord.gg/realmquest)
-- Email support: support@realmquest.com
-
-## ✨ Acknowledgments
-
-- Thanks to our amazing community of players and contributors
-- Special thanks to our core development team
-- Art assets provided by [list of artists/contributors]
-
-## 📈 Roadmap
-
-### Upcoming Features
-
-- [ ] Mobile companion app
-- [ ] Virtual dice roller
-- [ ] Custom campaign creator
-- [ ] Integration with virtual tabletop platforms
-- [ ] Advanced character progression tracker
-
-### Recently Completed
-
-- [x] Interactive world map
-- [x] Character sheet PDF export
-- [x] Rule search functionality
-- [x] Basic character creator
+This guide provides instructions for developers working on the **Tides of Change** website. The site is an all-in-one resource for players of the **Tides of Change** tabletop RPG, featuring game rules, character creation tools, and immersive world lore.
 
 ---
 
-Made with ❤️ by the Tides of Change Team
+## Key Features
+
+### Game Content
+
+- **Interactive World Map**: Explore regions, their lore, and the history of the Tides of Change universe.
+- **Character Creation**: Backstory generation, attributes, and a guided creation process.
+- **Rules System**: Comprehensive details on combat, magic, leveling, and other gameplay mechanics.
+
+### Development Framework
+
+- **Framework**: Built using [Astro](https://astro.build/) with the **Starlight** theme for structured and user-friendly navigation.
+- **Markdown/MDX**: All content is written in `.md` or `.mdx` files, making it easy to edit and extend.
+
+---
+
+## Development Setup
+
+### Prerequisites
+
+- **Node.js**: Version 16.0.0 or higher.
+- **Package Manager**: npm or yarn.
+
+### Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/tides-of-change.git
+   cd tides-of-change
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and visit `http://localhost:3000`.
+
+---
+
+## Website Structure
+
+### File Organization
+
+- **Content Directory**: All webpages are located in `src/content/`. Subdirectories include:
+
+  - `rules/` - Game rules.
+  - `regions/` - Region-specific lore and maps.
+  - `class/` - Playable character classes.
+  - `species/` - Information about species in the world.
+  - `getting_started/` - Beginner guides and tutorials.
+  - `campaigns/` - Pre-designed campaigns and adventures.
+
+- **Assets Directory**: Images, logos, and other media are in `src/assets/`.
+
+### Editing Content
+
+- Create or update files in `src/content/` using Markdown (`.md`) or MDX (`.mdx`).
+- For syntax and formatting guidelines, refer to the [Starlight Authoring Content Guide](https://starlight.astro.build/guides/authoring-content/).
+
+---
+
+## Updating Navigation Sidebar
+
+To modify the navigation menu on the left sidebar:
+
+1. Open `astro.config.mjs`.
+2. Locate the `sidebar` variable.
+3. Add or edit sections following the existing structure:
+   ```javascript
+   {
+     label: "New Section",
+     items: [
+       { label: "New Page", slug: "path/to/page" }
+     ],
+   },
+   ```
+4. Save your changes and restart the development server to apply updates.
+
+---
+
+## Starlight Framework
+
+The website leverages **Starlight**, a flexible framework for content-based websites. Key features include:
+
+- **Auto-generated Navigation**: Content in `src/content/` is dynamically indexed for the sidebar and search functionality.
+- **Markdown/MDX Support**: Easily create and format pages using standard Markdown with extended MDX capabilities.
+- **Search Integration**: Built-in search bar for quick access to content.
+
+For more information, consult the [Starlight Authoring Content Guide](https://starlight.astro.build/guides/authoring-content/).
+
+---
+
+## Collaboration
+
+To contribute:
+
+1. Request collaborator access to the GitHub repository.
+2. Clone the repository and set up the project as per the instructions above.
+3. Follow project contribution guidelines for pull requests.
+
+---
+
+## Notes for Contributors
+
+- **Content Placement**: Keep all new content in the `src/content/` directory unless necessary changes are required elsewhere.
+- **Consistency**: Follow existing patterns for formatting and organization.
+- **Testing**: Always test changes locally to ensure they work as intended.
+
+---
+
+This guide equips you to contribute effectively to the **Tides of Change** TRPG website. If you have any questions or need assistance, reach out to the project maintainers. 🌊✨
