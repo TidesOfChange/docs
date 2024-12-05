@@ -1,0 +1,61 @@
+---
+title: Magic
+description: Rules for Tides of Change
+tableOfContents:
+  minHeadingLevel: 2
+  maxHeadingLevel: 2
+---
+import { LinkCard, CardGrid, Card } from '@astrojs/starlight/components';
+
+Some characters have learned how to draw energy from surrounding natural forces in order to power simple magical effects. 
+
+Spells must be learned and mastered through practice and concentration. The amount of spells a character knows is equal to their rank in their Magic attribute -1. So if a character has a 3 in Magic, they know 2 spells. If they spend XP to increase their magic to a 4, they can learn one new spell. Certain abilities and expertises may grant additional spells that are separate from this total. 
+
+:::caution
+Characters cannot change the spells they know. Once they’ve learned a spell, they always know that spell (though they may become unable to draw on the energy that powers it due to various effects). 
+:::
+
+Only one spell may be cast by a character at a time – **spells cannot be stacked.** The amount of focus and concentration, however, is mentally exhausting. And so each known spell can be cast no more than twice per day before the character will need to rest. After a full period of sleep, all spells are regained.
+
+## Spells
+There are 5 categories of spells:
+<CardGrid>
+  <LinkCard title="Social Spells" href="#social-spells" />
+  <LinkCard title="Defensive Spells" href="#defensive-spells" />
+  <LinkCard title="Healing Spells" href="#healing-spells" />
+  <LinkCard title="Attack Spells" href="#attack-spells" />
+  <LinkCard title="Elemental Spells" href="#elemental-spells" />
+</CardGrid>
+
+
+### Social Spells
+| Spell     | Description |
+|-----------|-------------|
+| Charm     | Casts feeling of friendliness and trustfulness on the target. Boosts the caster with a +1 buff to their Personality, Intuition, and Karma. Effects last for one whole interaction and only apply to actions between the caster and the target. |
+| Petrify   | Freezes the target with fear and makes them lose their composure. Boosts the caster with a +1 buff to Intimidation checks and afflicts the target with -1 debuffs to their Strength and Agility. Effects last for one whole interaction. |
+| Telepathy | Allows the caster to communicate telepathically with any character that possesses telepathic abilities, or to read the thoughts of a character who does not possess telepathy, for one minute. Telepathic characters may resist having their thoughts read. |
+### Defensive Spells
+| Spell             | Description |
+|-------------------|-------------|
+| Shroud of Invisibility | The caster and anyone directly touching the caster is also turned invisible. This spell lasts for one hour or until the invisible parties are detected. Detection can happen if: an NPC succeeds a contested awareness check with a -5 penalty against the invisible creatures’ stealth +10, an invisible target makes enough noise to draw attention, an invisible target touches another NPC or moves an object within view, an invisible target makes an attack, or an invisible target falls unconscious. |
+| Share the Pain    | The caster designates one character they can see (ally or enemy) to be Linked for one minute. While Linked, the caster splits any damage received 50/50 with the other Linked character. The Link is broken if the caster cannot see the Linked target or the Linked target falls unconscious. |
+| Oono’s Reversal   | You may cast this spell when hit by a ranged attack (including magical). Roll a d6 and take that much less damage from the attack (minimum 1). Then, make the same attack roll against the attacker as if you used that weapon/spell yourself. |
+### Healing Spells
+| Spell              | Description |
+|--------------------|-------------|
+| Healing Bubble     | This bubble can be thrown an amount of feet equal to the caster’s strength x 10. When the bubble is thrown, whatever it hits in its path heals 2d6. Roll Shooting, adding your magic modifier on top of your normal modifier, to hit a specific target. |
+| Health Transference| Players can take life from any living thing around them. They gain health but the living thing loses health. Up to 4d6 of health can be transferred from the source to the target. Healing cannot exceed the amount of health a source has, but multiple sources can be tapped at once for a cumulative total. |
+| Strengthen         | Removes any conditions impacting a target, and restores any attributes impacted by that condition. |
+
+### Attack Spells
+| Spell         | Description |
+|---------------|-------------|
+| Poison Enchant| Conjure a toxic coating to a weapon which, on a successful hit, poisons the target dealing an extra d6 of damage and reducing that target’s Strength by 1 until they heal. |
+| Battle Cry    | As you scream out in a righteous fury, the force behind your next attack strengthens. Double your attack modifier on your next attack and, if successful, double your damage dice. |
+| Elemental Blast| Creates a melee or thrown weapon of any element specified (fire, water, air, earth, electricity). On a hit, the target takes 2d6 damage of the element’s type. |
+### Elemental Spells
+| Spell         | Description |
+|---------------|-------------|
+| Air Bubble | Conjure up to your rank in magic air bubbles around yourself and/or others. Air breathing species are able to breathe normally, with no penalties, while underwater with an air bubble. Lasts up to 8 hours. Alternatively, the bubble may also be cast on a non-air breathing species as an attack. Target must have hands free and succeed with a Force roll of 15 to pop the bubble. |
+| Water Bubble    | As you scream out in a righteous fury, the force behind your next attack strengthens. Double your attack modifier on your next attack and, if successful, double your damage dice. |
+| Elemental Blast| Creates a melee or thrown weapon of any element specified (fire, water, air, earth, electricity). On a hit, the target takes 2d6 damage of the element’s type. |
