@@ -90,6 +90,10 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             {
+              label: "Karkorte - Trouble in Karkorte",
+              slug: "campaigns/trouble-in-karkorte",
+            },
+            {
               label: "Lumea - Save an Aqualumean child",
               slug: "campaigns/save-aqualumean-child",
             },

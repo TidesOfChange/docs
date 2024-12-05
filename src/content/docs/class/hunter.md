@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: TRPG Starter
+title: Hunter
+description: Hunter Class
 ---
 
 # Hunter

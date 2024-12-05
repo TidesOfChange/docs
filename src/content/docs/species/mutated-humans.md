@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: TRPG Starter
+title: Mutated Humans
+description: Kraken and Moby Species
 ---
 
 # Kraken

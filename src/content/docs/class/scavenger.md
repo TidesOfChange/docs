@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: TRPG Starter
+title: Scavenger
+description: Scavenger Class
 ---
 
 # Scavenger
