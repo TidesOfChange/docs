@@ -86,6 +86,24 @@ export default defineConfig({
           ],
         },
         {
+          label: "Campaigns",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            {
+              label: "Lumea - Save an Aqualumean child",
+              slug: "campaigns/save-aqualumean-child",
+            },
+            {
+              label: "Lumea - Save Astralyss, the kidnapped Celestial Dragon",
+              slug: "campaigns/save-astralyss",
+            },
+            {
+              label: "Lumea - Scientists Divided in Atlantis",
+              slug: "campaigns/scientists-divided-in-atlantis",
+            },
+          ],
+        },
+        {
           label: "Character",
           items: [
             // Each item here is one entry in the navigation menu.
