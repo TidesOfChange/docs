@@ -3,8 +3,13 @@ title: Getting Started
 description: TRPG Starter
 ---
 
-# Test
-
 ## Background
-## Image
-## Subspecies
+The species for this game is woodland creatures. These creatures can be squirrels, chipmunks, bunnies, or any other small rodent-like animal. The creatures, independent of what type of real-world animal they are based on, are biped creatures that have opposable thumbs and the ability to speak.
+
+Although not originally from desert landscapes, they have adapted by fashioning themselves rudimentary technology into wearable devices that help recapture lost moisture from breathing. This technology is made of poorly welded scrap metals and cloth to create a filtering mask that keeps water in and sand out. Their fur and clothing are varying in color when cleaned, but desert life makes both dirty rapidly. Most creatures can be black, brown, gray, white, orange, yellow, or some combination of those, but most of the time they are hued muted dust colors as the sand gets into all nooks of their fur and materials.
+
+As a species, they hold the most value in community. Since their lives are defined by a lack of basic goods, they function better as a collective since this allows them to distribute any materials efficiently and every individual has a better chance of survival because of it. Undermining the pack is a life or death matter and is punished with banishment which is usually unsurvivable.
+
+In addition to community, they also place a high value on storytelling. In a land that lacks many written materials, these creatures find that passing information through speaking is the only way to retain information throughout generations. They hope that one day plants will return, but until then they must keep the knowledge alive of how to cultivate them. Because of this, the species have a regular pastime of telling stories, both fictional and not, to pass on values and information.
+
+Extra attribute point goes to Agility since they are small rodents that can move quickly. Skills that make sense for this species are sneakiness, foraging, mechanics, bartering, and awareness. One unique ability for this species is that they can restore some health and repair some damage to any alive or inanimate object (however they can only partially restore anything). The caveat to this is that they themselves have to sacrifice a portion of their own lifeforce in order to restore. Their loss of lifeforce is seen in a reduction in their own health points. Their weakness is that if they discover food or water they always immediately stop their current activity in order to divide it among the current party. Otherwise, this is considered undermining the pack and can lead to conflict.
