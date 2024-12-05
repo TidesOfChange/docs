@@ -3,6 +3,20 @@ title: Character Creation
 description: How to create a character in Tides of Change
 ---
 
+## Backstory
+No character exists in a vacuum or was brought forth into the world fully formed. To get a sense of who your character is, develop their backstory and consider how their experiences have shaped their thoughts and behaviors. 
+
+:::note[Consider]
+- What was their upbringing like?
+- What are their main personality traits?
+- What is their top 3 core values?
+- What is their biggest vice?
+- What motivates them?
+- What discourages them?
+:::
+
+
+
 
 ## Attributes in Tides of Change
 Players start at **level 0** in all attributes and have **15 points** to distribute among the attributes, except for Karma, which starts at 0 and changes during game play at **GM’s discretion**.

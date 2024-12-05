@@ -38,7 +38,7 @@ export default defineConfig({
             { label: "Combat", slug: "rules/combat" },
             { label: "Heath/Damage", slug: "rules/health_damage" },
             { label: "Magic", slug: "rules/magic" },
-            { label: "Resources", slug: "rules/resources" },
+            { label: "Equipment", slug: "rules/equipment" },
             { label: "Technology", slug: "rules/technology" },
           ],
         },
