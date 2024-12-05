@@ -3,7 +3,7 @@ title: Mutated Humans
 description: Kraken and Moby Species
 ---
 
-# Kraken
+## Kraken
 
 ![Image of Kraken](../../../assets/karkorte/kraken.png)
 
@@ -20,7 +20,7 @@ Within Karkorte, Krakens do most of the physical work around the city. They aren
 
 ## Moby
 
-![Image of Moby](../../../assets/karkorte/Moby.png)
+![Image of Moby](../../../assets/karkorte/moby.png)
 
 Mobys were former humans a long time ago from when the world first started going underwater. The effect of the power plant explosion has caused the area around the city to become radiated. The prolonged exposure of the radiation has caused humans to develop sonar abilities. Physically the humans have changed to exhibit an eye-like appendage that functions like a sonar detector. This species may have slightly different appearances, but they all inhabit the eye like appendages. With sonar they are able to accurately map out areas of around 200 feet outwards from them. However a huge disadvantage is their weakness to loud noises. Loud noises would cause their senses to overload and harm them in the process.
 
