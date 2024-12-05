@@ -6,7 +6,7 @@ description: TRPG Starter
 # Map
 ![Map of Karkorte](../../../assets/karkorte/karkote_map.jpg)
 
-# Introduction
+## Introduction
 
 Karkorte comes to exist in the future, where the attempts at minimizing humanity’s carbon footprint over the course of hundreds of years could not keep up with ever-increasing issues of climate change. Gradually, the landfills had become overfilled due to extreme human overpopulation. Trash seeped into cities and into the oceans, contaminating many forms of life and environments. While frantically attempting to fix this quickly changing world, the sea levels were rising, submerging multiple large land masses. Many humans were unable to adapt to the extreme environmental changes taking place, where cities collapsed from water pressure and food became scarce. 
 
