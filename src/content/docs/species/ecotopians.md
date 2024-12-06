@@ -13,6 +13,8 @@ The Ecotopians are a species of humans who defected from the AI-controlled dysto
 
 ### Arborian
 
+![Illustration of tree-person](../../../assets/sylvangrove/tree-person.png)
+
 #### **Description**  
 A group of living life forms that resemble trees, with their bodies made of wood, branches, and leaves. They are incredibly strong and durable, making up much of the workforce within the Ecotopia. While they naturally make excellent workers, they can also become threatening fighters. The Arborian leader is **Trunkules**.
 
@@ -45,6 +47,8 @@ A group of living life forms that resemble trees, with their bodies made of wood
 
 ### Mycelian
 
+![Illustration of fungus person](../../../assets/sylvangrove/fungus-person.png)
+
 #### **Description**  
 A species of living mushroom people, small and delicate but exceptionally skilled in magic. They communicate telepathically across great distances with other fungi and navigate vast underground tunnel networks. Highly adept at stealth and illusion magic.
 
@@ -75,6 +79,8 @@ A species of living mushroom people, small and delicate but exceptionally skille
 ---
 
 ### Florian
+
+![Illustration of flower person](../../../assets/sylvangrove/flower-person.png)
 
 #### **Description**  
 Living flowers that are delicate and dislike combat but excel in leadership. Their natural charisma, beauty, and scent make them exceptional political and tactical leaders. Florians often form the elite and ruling class within Ecotopia.  

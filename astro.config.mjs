@@ -105,6 +105,18 @@ export default defineConfig({
               label: "Lumea - Scientists Divided in Atlantis",
               slug: "campaigns/scientists-divided-in-atlantis",
             },
+            {
+              label: "Sylvangrove - Session 1: Arborian",
+              slug: "campaigns/session1-arborian",
+            },
+            {
+              label: "Sylvangrove - Session 2: Florian",
+              slug: "campaigns/session2-florian",
+            },
+            {
+              label: "Sylvangrove - Session 3: Mycelian",
+              slug: "campaigns/session3-mycelian",
+            }
           ],
         },
         {
