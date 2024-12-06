@@ -14,8 +14,7 @@ After a quick trip across the ocean where your ship has run off course, your par
 
 ## Task 1: Training Camp  
 
-### GM:  
-You follow the Arborian you met to the Arborian training camp where you are then tasked with running through 8 trials before you are ready to journey into the mountains to meet the AI encroaching on the territory. Since time is running out only a trial is considered finished once any party member is able to complete them.  
+GM:  You follow the Arborian you met to the Arborian training camp where you are then tasked with running through 8 trials before you are ready to journey into the mountains to meet the AI encroaching on the territory. Since time is running out only a trial is considered finished once any party member is able to complete them.  
 
 <span style="color:green;"> ### Trials  
 Trials are led by the Drill Sergeant of the Arborians: Lieutenant Tree who is very strong and very sneaky.  </span>
@@ -29,46 +28,38 @@ Trials are led by the Drill Sergeant of the Arborians: Lieutenant Tree who is ve
 
 <span style="color:green;"> Note that the trials should be adjusted to the party’s level and are meant to be slightly difficult.  </span>
 
-### GM:  
-In addition to the trials, due to the Arborian tradition of passing down wisdom from the elders it is mandatory that the party learns about how AI is used in Arborian society. The main use of AI in Arborian society is the detectors that use machine learning classification to monitor the amount of biodiversity located in a sector. Arborians also use AI to make predictive models for pollution in the air since air pollution leads to acid rain that harms much of the forest that the Arborians call home.  
+GM:  In addition to the trials, due to the Arborian tradition of passing down wisdom from the elders it is mandatory that the party learns about how AI is used in Arborian society. The main use of AI in Arborian society is the detectors that use machine learning classification to monitor the amount of biodiversity located in a sector. Arborians also use AI to make predictive models for pollution in the air since air pollution leads to acid rain that harms much of the forest that the Arborians call home.  
 
-### GM:  
-Since your party is new to the Arborian region Lieutenant Tree wants your party to come up with some other use of AI for Arborian society that is up to his standards.  
+GM:  Since your party is new to the Arborian region Lieutenant Tree wants your party to come up with some other use of AI for Arborian society that is up to his standards.  
 
 <span style="color:green;"> Lieutenant Tree heavily values practical solutions, but the party does not know this. </span>
 
-### GM:  
-Once the party has passed the trials and appeased Lieutenant Tree they are ready to be sent into the mountains to stop the AI encroachment.  
+GM:  Once the party has passed the trials and appeased Lieutenant Tree they are ready to be sent into the mountains to stop the AI encroachment.  
 
 ---
 
 ## Task 2: Mountain Fight  
 
-### GM:  
-The party finds themselves having journeyed halfway up the mountain range and they are tired, so they decide to take a break from the hike. Just then they get a report from the detectors that are located nearby that there is hostile AI in the area. However, they are unsure how close the threat is.  
+GM:  The party finds themselves having journeyed halfway up the mountain range and they are tired, so they decide to take a break from the hike. Just then they get a report from the detectors that are located nearby that there is hostile AI in the area. However, they are unsure how close the threat is.  
 
 <span style="color:green;"> Let the party decide how to prepare for battle. </span> 
 
-### GM:  
-Once the party has prepared for battle then the attack begins.  
+GM:  Once the party has prepared for battle then the attack begins.  
 
 <span style="color:green;">  The AI is very technologically advanced and does not have many weaknesses. The fight is meant to be difficult, so adjust the difficulty to the level of the party. The enemies are:  </span>
 - <span style="color:green;">**AI Grunt**: Slow and weak, but a very large amount.  </span>
 - <span style="color:green;">**AI Tank**: Slow and tanky, can absorb a lot of damage.  </span>
 - <span style="color:green;">**AI General**: Fast and strong, but not very many of them.  </span>
 
-### GM:  
-Once the fight is all over and the AI have been driven back over the mountain range all that is left is to do some basic surveying of the mountain to evaluate the damage of the invasion. The party is tasked with coming up with ways to use AI to fix the environmental damage on the mountain.  
+GM:  Once the fight is all over and the AI have been driven back over the mountain range all that is left is to do some basic surveying of the mountain to evaluate the damage of the invasion. The party is tasked with coming up with ways to use AI to fix the environmental damage on the mountain.  
 
 ---
 
 ## Boss: Trunkules the Great  
 
-### GM:  
-Once your party returns from the party from the mountains your valor has earned you an audience with the leader Trunkules the Great. It is your job to demonstrate to him that you are worthy of being put in charge of the mission to unite all the ecotopian societies. In order to convince him you must state why your party wants to help the ecotopia.  
+GM:  Once your party returns from the party from the mountains your valor has earned you an audience with the leader Trunkules the Great. It is your job to demonstrate to him that you are worthy of being put in charge of the mission to unite all the ecotopian societies. In order to convince him you must state why your party wants to help the ecotopia.  
 
 <span style="color:green;"> Trunkules the Great is a very wise and careful Arborian. He likes clear examples of actions taken. </span>
 
-### GM:  
-Once the party has managed to convince Trunkules the Great that the party is worthy, pick the location to go to next between the **Mycelians** and **Florians**.  
+GM:  Once the party has managed to convince Trunkules the Great that the party is worthy, pick the location to go to next between the **Mycelians** and **Florians**.  
 
