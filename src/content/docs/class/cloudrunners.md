@@ -1,6 +1,7 @@
 ---
-title: Getting Started
-description: TRPG Starter
+title: Cloudrunners
+description: Class from Aeolian Archipelago
 ---
 
-# Test
+## Description
+Cloudrunners are criminals. Although some may have noble intentions or lofty goals, the life of a cloudrunner is characterized by violent conflict, constant danger, and a struggle for survival. Most law-abiding citizens try to keep their head down and avoid cloudrunners at all costs, lest they become collateral damage in the fighting. Enterprising local businesses may enlist the help of cloudrunners for a variety of reasons - bodyguards/protection, disrupting corporate actions, smuggling money or goods, or any activities that they might want to keep hidden from the corporation. These contracts are the main source of income for most cloudrunners, highly prized and contested among rival cloudrunner “cells” (factions). Reputation is everything, and the “rules” of cloudrunner society are mostly self-enforcing. Nobody wants to hire someone who has sold out their contractor to the corporation, gone back on their promises, or repeatedly failed to complete their tasks, and so less reliable cloudrunners tend to be kicked out of groups and are left behind. Likewise, contractors rarely dare to deal in bad faith with cloudrunners because they know that they could just as easily be the cloudrunners’ next target.
