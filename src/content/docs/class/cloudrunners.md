@@ -4,6 +4,9 @@ description: Class from Aeolian Archipelago
 ---
 
 ## Background
+
+![Image of Cloudrunners](../../../assets/archipelago/cloudrunners.png)
+
 Cloudrunners are criminals. Although some may have noble intentions or lofty goals, the life of a cloudrunner is characterized by violent conflict, constant danger, and a struggle for survival. Most law-abiding citizens try to keep their head down and avoid cloudrunners at all costs, lest they become collateral damage in the fighting. Enterprising local businesses may enlist the help of cloudrunners for a variety of reasons - bodyguards/protection, disrupting corporate actions, smuggling money or goods, or any activities that they might want to keep hidden from the corporation. These contracts are the main source of income for most cloudrunners, highly prized and contested among rival cloudrunner “cells” (factions). Reputation is everything, and the “rules” of cloudrunner society are mostly self-enforcing. Nobody wants to hire someone who has sold out their contractor to the corporation, gone back on their promises, or repeatedly failed to complete their tasks, and so less reliable cloudrunners tend to be kicked out of groups and are left behind. Likewise, contractors rarely dare to deal in bad faith with cloudrunners because they know that they could just as easily be the cloudrunners’ next target.
 
 
@@ -19,6 +22,8 @@ Cloudrunner is a job title more than anything, like calling someone a gangster. 
 Cloudrunners are made up of all species and genders, although birds tend to understand flying a bit better than everyone else. As long as they can keep up, anyone can be a Cloudrunner. People typically join cells either by being recruited (consensually or otherwise) or breaking the law and catching the attention of veterans. For some, being a Cloudrunner is a way to provide money for their family, even if they can’t be around them. For others, their cell is their family because they have nobody else. Some join to fight back against the corporation ideologically or settle a personal vendetta. Others are in it just for the thrill of the ride, although they usually tend to burn out quickly. Whatever their reasons, Cloudrunners are a wind-hardened bunch of criminals, stopping at nothing to achieve their goals.
 
 ## Skills and Customization
+
+![Image of Cloudrunners](../../../assets/archipelago/cloudrunners-et-archipelago.png)
 
 Cloudrunners need to be able to adapt and survive in a chaos-fueled environment on a daily basis. Because of their lifestyles, cloudrunners have become proficient in the following skills:
 

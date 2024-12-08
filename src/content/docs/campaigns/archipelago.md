@@ -13,9 +13,11 @@ How did the party get here? Are they all natives to the archipelago, have they c
 
 ## Map
 
+![Map of Aeolian Archipelago Campaign](../../../assets/archipelago/map-archipelago.png)
+
 ## The Adventure Begins: Beach Island
 
-map
+![Map of Beach Island](../../../assets/archipelago/beach.png)
 
 The Beach Island, with its striking crescent shape, thrives in warm tropical waters and is driven by a self-sustaining balance of trade and necessity. A variety of terrain and agriculture populate the island – lush forests on the west, vibrant crops like dragonfruit and mango toward the center, and palm trees with sandy beaches on the east. Two towns anchor the island’s economy: Ironwood, nestled near the jungle, is a hub of hard labor, focusing on logging and mining. Wavecrest, located along the coastline, thrives on food production, fishing, and fine craftsmanship. While the towns are vastly different in atmosphere and purpose, they’re deeply interconnected, relying on a well-traveled trade route to exchange resources.
 As the population of Beach Island saturated, its resources began facing potential overuse. Wood is being consumed faster than it can regrow, and fish have become both scarce and disease-ridden. Whirlpools to the south, east of the island, have stirred unnaturally large and aggressive storms, while rising tides bring in waves of trash and pollution from FLOoN Isle. Island tensions have naturally risen, prompting many adventurers to leave in search of answers to this changing atmosphere. Veltharion may have created this safe haven against the great floods, but it will soon be lost if nothing changes.
@@ -98,7 +100,7 @@ Players should have found the poem, and should be using the beach town dock to d
 
 ## The Thousand Isles
 
-map
+![Map of The Thousand Isles](../../../assets/archipelago/thousandIsles.png)
 
 The Thousand Isles are home to the Southern Trading Hub, located on the largest of the islands. Despite it being much smaller than the Northern Trading Hub in the Tundra Isles, it’s still quite busy, with craftsmen, residents, and FLOoN employees alike scrambling to go about their business. The largest island holds the main part of town on the north side with the public docks, and a FLOoN corporate shipping center to the south. A few of the other big islands are made up of residential neighborhoods, and the rest of the smaller islands are mainly home to wildlife, but a micro-junkyard and small storage structure are housed on two of the furthest, smallest islands. Unless you already know your way around, the center of town is clearly the place to be:
 In a somewhat stark contrast to the tropical atmosphere and breezy, palm-laden architecture, the Southern Trading Hub is buzzing with activity and packed with people. In the open air of the town square, the only visible structure above the sea of heads is a tall, magnificent stone statue of an incredibly muscular man with a human body and a pelican’s head. In the crowd, swarms of locals carry stacks of boxes and crates towards the docks, as shoppers loiter and, notably, a middle-aged woman at the raised entrance of the general store surveys the crowd, her eyes lingering suspiciously long on your party as she looks around.
@@ -132,6 +134,8 @@ The guardhouse sits at the only obvious entrance of the Shipping Center, next to
 
 This is a small, single story office building where all of the administrative parts of shipping and trading are handled. Just inside the main entrance is a small lobby with the receptionist’s desk and multiple display cases lining the walls. The receptionist, a burly parrot Avenar, is fast asleep behind the desk. It is up to the GM’s discretion if an action taken while in the room risks waking the receptionist. The cases are filled with artifacts, photos, and plaques detailing the many achievements of FLOoN over the years. It seems at first to be a sort of museum, but upon further inspection, any negative, pollutant, or destructive parts of the company’s history are conspicuously absent, making it more of a shrine than anything else. In one case is a large stone slab, about four feet high, leaned against the wall, with rough, sharp letters carved into it. It reads: In the place where the land slopes to the heavens, a legend awaits among the leafy cluster of a long-lost oracle.
 
+![Guide of a Corporate Solider](../../../assets/archipelago/corporateSoldier.png)
+
 ### The Loading Dock
 
 As you approach the water, the land transitions into a vast concrete slab. This is the loading dock, where large corporate ships can dock and exchange cargo. It is mostly filled with crates and cargo. At the GM's discretion, undercover party members may be able to complete a DC 10 Thievery check to swipe an item from the boxes.
@@ -164,6 +168,8 @@ The party should have found the riddle: In the place where the land slopes to th
 
 ## The Tundra Isles
 
+![Map of the Tundra Isles](../../../assets/archipelago/tundraIsles.png)
+
 ## Northern Trading Hub
 
 Despite being the smallest island of the three in the Tundra Isles, the Trading Hub is always packed with activity. Ships of all shapes and sizes are docked or moving towards the many ports on the island - everything from heavy corporate cargo ships to ferries to lightweight personal sailboats. However your players arrive at this island, they’re immediately thrown into a chaotically busy environment:
@@ -195,6 +201,8 @@ Compared to the chaos of the trading hub, this island is serene. There’s small
 The rings of flowers are organized in the following order (outer to inner): red, orange, yellow, green, blue, purple. The outer rings gradually transition into each other - orange flowers becoming more and more common among the red until the orange eventually dominates - while the inner rings have very stark transitions. The flowers also get taller the closer to the center you go, with the purple flowers living on bushes 5 feet tall. There are a few rough paths scattered throughout the red, orange and yellow rings, but they must push through the flowers starting in the green zone.
 
 When the characters start to enter the yellow zone, they will notice someone running full speed down a path. If they are on the path, he heads straight toward them. A faint buzzing can also be heard, growing louder as a swarm of bees chases the person down the path. If the person running encounters the party, he will hastily push through them and keep running, calling them fools for just standing there. He is openly wearing corporate-branded clothing and has many noticeable welts on his face, presumably from bee stings. If the party does not hide among the flowers (DC 8 Sneakiness group check), the bees will head towards them and attack, stinging a few times before flying off towards the center. If the party has the compass and has activated the secret button, the bees become docile whenever they get close, dispersing from the swarm and collecting nectar from flowers.
+
+![Guide of Swarm of Bees](../../../assets/archipelago/swarmOfBees.png)
 
 ### Center of the Rings
 
@@ -247,7 +255,7 @@ Transportation to any other island except the Dead Zone can be relatively easily
 
 ## The Dead Zone
 
-map
+![Map of the Dead Zone](../../../assets/archipelago/isleOfDeath.png)
 
 Of all the islands in the Aeolian Archipelago, none have more mystery surrounding them than the Dead Zone. Formerly known as Eros Island, the Dead Zone was once a thriving cloudrunner community before it disappeared into the fog. Some decades after the Great Floods, the shifting regional climate caused a thick fog to descend upon the island which remains today, making the dense mangrove swamps of Tharun Swamps dangerously unnavigable. Today, the swamps of Eros Island and the ruins of Port Eros are all but hidden behind the fog, with only the peak of Mount Eros poking out of the top. While it’s common sense that nothing could possibly worth entering the fog of the Dead Zone, there have been whispers of a forgotten rare herb of great importance to FLOoN that once grew on the slopes of Mount Eros…
 
@@ -290,6 +298,8 @@ In terms of cloudrunning from the peak, climbing Mount Eros is relatively easy a
 
 ## Isle of Omphalos
 
+![Map of Isle of Omphalos](../../../assets/archipelago/isleOfOmphalos.png)
+
 Located in the center of the Aeolian Archipelago, the Isle of Omphalos is visible from all quadrants of the region. Being home to both the densest of forests on its southern border and the steepest of cliffs on its north, the Isle of Omphalos almost appears as if it was a crashing wave. Its rich and diverse vegetation has made it the centerpiece for FLOoN control within the archipelago. At the island’s peak of elevation which faces north, FLOoN has built seven buildings to act as a regional headquarters, displayed in the shape of a crescent with buildings growing in size from the outer edge to the middle.
 
 ## Locations
@@ -305,6 +315,8 @@ The northern quarter of the island escapes the dense jungle of Delphi’s Tangle
 ### FLOoN Lagoon
 
 Hidden away within the Tangle of Delphi, lies the peaceful lagoon used by Veltharion as a place of peace, meditation, and rest. The entrance is that of moving trees, which bend away from one another once the password is entered into the nearby stone wall (see Journey Into the Jungle). Upon entering, the lagoon appears to be a small circle, with an outer ring of mosses and old, broken stone walls., remnants of an old city before the flooding. In the center lies a small pond, topped with a multitude of colorful water lilies and lily pads. The shallow pond is not murky, and actually has perfectly transparent water that lies completely still. The Lagoon has no ambiance, acting as a piece of complete silence and peace. The place feels like it is frozen in time.
+
+![Guide of Corporate Soldier](../../../assets/archipelago/corporateSoldier.png)
 
 ## Journey Into the Jungle
 
@@ -322,7 +334,7 @@ Once the party realizes her connection to Sky and talks her down, or gives her t
 
 In agreeing to help Veltharion in this quest, whether directly or indirectly depending on how party chooses to move on from the archipelago, Veltharion will award the party with a gift: Veltharion’s Heaven Sent - a small glass box with a glowing red flower inside, filled with Skycaller energy, and essentially acting as a bomb when opened or broken, dealing 50d6 damage in a half mile radius. Veltharion will then tell the party that she is going back to the skies in search of her daughter, and the party will then remain alone in the calmness of FLOoN Lagoon.
 
-Map
+![Guide of Keeper Of Storm](../../../assets/archipelago/keeperOfStorms.png)
 
 ### Moving On
 The campaign of the Aeolian Archipelago has now ended, with the party being rewarded with the powers of the strongest Skycaller through her glass nuke. Players are rewarded with 50 more EXP for their efforts. The party can either choose to keep their treasure and retire back on the Beach, or can choose to explore with their newly acquired tool to another region within the world of Tides for Change. Wherever they go, Sky's the limit!

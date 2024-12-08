@@ -3,6 +3,9 @@ title: Skycallers
 description: Class from Aeolian Archipelago
 ---
 ## Background
+
+![Image of Skycallers](../../../assets/archipelago/skycallers.png)
+
 Both feared and hallowed amongst the residents of Aeolian Archipelago, the name “skycaller” invokes omens of both awe and terror. Skycallers are exceptionally rare weather shamans capable of taming the storms that ravage the Archipelago, and are both feared and respected amongst all. Relentlessly hunted by FLOoN for their valuable and dangerous powers, skycallers are forced to live in secret, with many opting to join cloudrunner cells for protection. Skycallers are key assets to cloudrunner cells, who would surely perish navigating the raging tempests of the Archipelago otherwise. Due to their innate connection to the environment, skycallers are greatly affected both physically and mentally by pollution, which is why many skycallers choose to fight against the megapolluting FLOoN. It is unknown how skycallers came to be or where their powers are sourced from, but many skycallers revere Veltharion the Tidebinder, the legendary first skycaller, as the source of their powers.
 
 
@@ -18,6 +21,8 @@ The existence of a Skycaller is a threat—not just the power itself but a remin
 While all captured Skycallers are given the option to join the Stormreavers, most refuse to work with FLOoN because of the pollution. Those that do are viewed as traitors, but they are greatly rewarded with nanotechnology enhancements that help mitigate the negative health effects of pollution.
 
 ## Skills and Customization
+
+![Skycallers Expertise Tree](../../../assets/archipelago/skycaller-ET-archipelago.png)
 
 Skycallers live on the edge, quite literally all of the time. They are careful about who they trust and interact with, making them difficult to get along with. Their lifestyle has honed their strengths in the following skills:
 

@@ -15,6 +15,8 @@ Good luck, have fun, and go save the planet!
 
 ## Map and The Islands
 
+![Map of Aeolian Archipelago Campaign](../../../assets/archipelago/map-archipelago.png)
+
 ### Center - Isle of Omphalos
 Located in the center of the Aeolian Archipelago, the **Isle of Omphalos** is a symbol of FLOoN’s control, home to its central headquarters. 
 
