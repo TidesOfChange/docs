@@ -23,7 +23,7 @@ Cloudrunners are made up of all species and genders, although birds tend to unde
 
 ## Skills and Customization
 
-![Image of Cloudrunners](../../../assets/archipelago/cloudrunners-et-archipelago.png)
+![Image of Cloudrunners](../../../assets/archipelago/cloudrunner-et-archipelago.png)
 
 Cloudrunners need to be able to adapt and survive in a chaos-fueled environment on a daily basis. Because of their lifestyles, cloudrunners have become proficient in the following skills:
 
