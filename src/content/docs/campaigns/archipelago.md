@@ -202,7 +202,7 @@ The rings of flowers are organized in the following order (outer to inner): red,
 
 When the characters start to enter the yellow zone, they will notice someone running full speed down a path. If they are on the path, he heads straight toward them. A faint buzzing can also be heard, growing louder as a swarm of bees chases the person down the path. If the person running encounters the party, he will hastily push through them and keep running, calling them fools for just standing there. He is openly wearing corporate-branded clothing and has many noticeable welts on his face, presumably from bee stings. If the party does not hide among the flowers (DC 8 Sneakiness group check), the bees will head towards them and attack, stinging a few times before flying off towards the center. If the party has the compass and has activated the secret button, the bees become docile whenever they get close, dispersing from the swarm and collecting nectar from flowers.
 
-![Guide of Swarm of Bees](../../../assets/archipelago/swarmOfBees.png)
+![Guide of Swarm of Bees](../../../assets/archipelago/SwarmOfBees.png)
 
 ### Center of the Rings
 
