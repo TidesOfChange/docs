@@ -90,6 +90,10 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             {
+              label: "The Aeolian Archipelago - Campaign",
+              slug: "campaigns/archipelago",
+            },
+            {
               label: "Karkorte - Trouble in Karkorte",
               slug: "campaigns/trouble-in-karkorte",
             },

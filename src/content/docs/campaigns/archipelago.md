@@ -247,32 +247,90 @@ Transportation to any other island except the Dead Zone can be relatively easily
 
 ## The Dead Zone
 
+map
+
 Of all the islands in the Aeolian Archipelago, none have more mystery surrounding them than the Dead Zone. Formerly known as Eros Island, the Dead Zone was once a thriving cloudrunner community before it disappeared into the fog. Some decades after the Great Floods, the shifting regional climate caused a thick fog to descend upon the island which remains today, making the dense mangrove swamps of Tharun Swamps dangerously unnavigable. Today, the swamps of Eros Island and the ruins of Port Eros are all but hidden behind the fog, with only the peak of Mount Eros poking out of the top. While it’s common sense that nothing could possibly worth entering the fog of the Dead Zone, there have been whispers of a forgotten rare herb of great importance to FLOoN that once grew on the slopes of Mount Eros…
 
-Beneath The Fog
-Port Eros
+## Beneath The Fog
+
+### Port Eros
+
 Port Eros is the ruins of a once-thriving Cloudrunner community that was abandoned once the fog descended. Formerly a thriving trading port, all that’s left of Port Eros are dilapidated, weathered buildings. Port Eros formerly relied on exports of rare herbs growing in Tharun Swamps, but was abandoned when the descending fog made the swamps far too dangerous to navigate. Players will be hard-pressed to find any sailors willing to transport them directly to Port Eros, as the dense fog makes it far too dangerous to dock at the ruined port, but some could perhaps be reluctantly convinced to sail close to the island, with the party swimming the rest of the way. Most sailors will know that Port Eros was formerly located on the side of the island closest to the central island. A more direct, but more dangerous, route is to cloudrun directly to the dock.
 Port Eros was built around a lighthouse that sits near the shore of the island; it is by far the tallest building in Port Eros. If players choose to climb the (slightly rickety) lighthouse, passing a simple Perception check at the top will reveal a faint blue glow in the direction of Mount Eros. As players pass through abandoned streets of Port Eros, they may choose to loot abandoned supplies, finding helpful items such as rope, torches, and a map of the island. Maps will reveal that the island consists of Mount Eros at the center, completely surrounded by the Tharun Swamps, with Port Eros on the southwest end of the island. Certain herb gathering spots are marked on the map. The largest mark sits at the base of Mount Eros, marked by a stormcaller emblem, roughly in the direction of the blue glow players may have seen at the top of the lighthouse. Small wooden boats can easily be found all along the swamp side of Port Eros.
-Tharun Swamps
+
+### Tharun Swamps
+
 Tharun Swamps are the fog-covered saltwater marshes that compose most of the Dead Zone. Densely covered by mangrove forests, some kind of boat is surely necessary to navigate it, though they are easily found in the abandoned ruins in Port Eros. While it used to be teeming with wildlife, nowadays the Tharun Swamps are eerily silent. The fog makes the Tharun Swamps extremely dangerous to navigate, filled with quicksand, hidden pits, and muddy water. Players will need to make Awareness checks to successfully avoid these traps, and if falling into them, will need to make Agility or Strength checks to escape them. If a Skycaller is present in the party, the fog can be manipulated to a minor extent to clear the path forward. Softly glowing Blue Harra Lilies seem to mark a path through the swamp, heading towards Mount Eros.
-Mount Eros
+
+### Mount Eros
+
 Mount Eros is the rocky mountain that sits at the center of the Dead Zone; its peak is the only part of Eros Island visible to the outside. Before the fog descended upon Eros Island, Mount Eros was of great importance to skycallers, revered as the place where the legendary Veltharion the Tidebinder first appeared, ushering thousands up the slopes of Mount Eros as the waters rose. Many of these survivors went on to establish Port Eros after the Floods ended. Growing on the slopes of Mount Eros are the rare Blue Harra Lilies, which glow a soft blue easily visible through the fog of the Dead Zone.
 Blue Harra Glade
 Blue Harra Glade is a massive flower glade at the base of Mount Eros, located at the edge of Tharun Swamp. The fog is lifted in the glade; clear blue sky is visible above the flowers, and the peak of Mount Eros can almost be seen. A slight path of trampled flowers leading to the center of the glade can be seen. At the center of the glade players will find a torn page of the following journal entry:
 
 
-<span> The winds have not been kind to me, nor to the land I once swore to protect. The very breath of nature now feels like a curse, whispering of all that I have lost.
+<span style="font-family: Monaco, Courier New, monospace;"> The winds have not been kind to me, nor to the land I once swore to protect. The very breath of nature now feels like a curse, whispering of all that I have lost.
 I thought I was saving her. I thought the deal was simple—a compromise, a small surrender to protect her. Sky… my sweet Sky. I should have known the moment I spoke her name, the moment I gave them that key, that it would never be that simple.
 They forced me to bend the storm to their whims, to turn the rains and the winds into weapons of their ambition. I raised the seas at their command, reshaped the skies like clay beneath my hands. But each thunderclap, each surge of the tide, has torn at my soul. I knew I was making a cruel mockery of the hallowed forces I once swore to protect with. But it wasn’t for me. It was for her.
 The price they demanded was too high, too twisted to be borne by any soul. But in the end, it was never their threats that cracked me. It was the thought of her face, the look in her eyes when she finally saw what I had become. I will carry that shame with me to my grave.
-Sky, the key. The password that locked my heart away. I should have never trusted them. But now, it’s too late. Too late for the world. Too late for me. <span>
+Sky, the key. The password that locked my heart away. I should have never trusted them. But now, it’s too late. Too late for the world. Too late for me. </span>
 
-<span> Maybe the sea will take me. Maybe the winds will call me back to where I belong. But before the tide rises again, I leave these words for whoever may come here after me. You may find my bones in the end, or the ashes of a spirit too broken to rise again. But the word Sky—that is the key. The only way to break their grip. The only way to find the storm beneath their control.
-I don’t know who will read this, or if anyone ever will. But if you do… know this: you must protect her. Do not let them use her name again. <span>
+<span style="font-family: Monaco, Courier New, monospace;"> Maybe the sea will take me. Maybe the winds will call me back to where I belong. But before the tide rises again, I leave these words for whoever may come here after me. You may find my bones in the end, or the ashes of a spirit too broken to rise again. But the word Sky—that is the key. The only way to break their grip. The only way to find the storm beneath their control.
+I don’t know who will read this, or if anyone ever will. But if you do… know this: you must protect her. Do not let them use her name again. </span>
 
-<span> I have no more tears left to shed, no more storms to call. Only echoes.
+<span style="font-family: Monaco, Courier New, monospace;"> I have no more tears left to shed, no more storms to call. Only echoes.
 May the tides rise again, and may they wash away this stain.
-V <span>
+V </span>
+
+#### Moving On
+
+After reading Veltharion’s journal entry in the Blue Harra Glade, players can exit the region by either climbing Mount Eros and cloudrunning from the peak, or sailing back out to Port Eros. Navigation through Tharun Swamp is relatively easy back to Port Eros as the Blue Harra Lilies mark the way back to the port, and the fog slightly thins out further from the mountain. Players may have made an arrangement with the sailor who took them to the island to wait for them so they can return; if not, perhaps the sailor stayed in the area out of concern for the party. Many small wooden boats lie abandoned on the coast of Port Eros which can be commandeered to link back up with the sailor.
+In terms of cloudrunning from the peak, climbing Mount Eros is relatively easy as the many skycaller pilgrims of the past have created a well-worn trail leading to the peak of the mountain, although it is slightly overgrown as the path has not been tread for a long time. Players may cut through the foliage with any tools they may have; if they have no such methods of cutting through the overgrowth, they may pass with a DC 10 Agility or Strength check. As they near the peak, the fog gradually thins out, and the peak itself is completely above the fog layer. From here, the party may cloudrun to the next island.
+40 EXP should be awarded to players for braving the Dead Zone and finding the journal entry. An additional 10 EXP may be given for Cloudrunning onto and/or off the island. Extra EXP may be awarded at GM discretion
+
+## Isle of Omphalos
+
+Located in the center of the Aeolian Archipelago, the Isle of Omphalos is visible from all quadrants of the region. Being home to both the densest of forests on its southern border and the steepest of cliffs on its north, the Isle of Omphalos almost appears as if it was a crashing wave. Its rich and diverse vegetation has made it the centerpiece for FLOoN control within the archipelago. At the island’s peak of elevation which faces north, FLOoN has built seven buildings to act as a regional headquarters, displayed in the shape of a crescent with buildings growing in size from the outer edge to the middle.
+
+## Locations
+
+### Tangle of Delphi 
+
+Occupying about three-quarters of the island, and beginning from the beaches of the southern edge, this area is an incredibly dense and lucious jungle. Filled with vines and large canopies, very little sunlight is able to pass through to the earth. This also impacts the humidity of the tangle, acting more similarly to a tropical rainforest. With the island being one gradual hill, traveling by foot can become difficult in this tangle if the correct provisions are not made. Based on the clues the party has collected from the previous islands, this is the area in which the opening to FLOoN Lagoon would be.
+
+### Horizon’s Edge 
+
+The northern quarter of the island escapes the dense jungle of Delphi’s Tangle, and now is an open field featuring thick blades of grass going to about shin to knee-height. Here is where FLOoN has situated their base within the archipelago, with their looming HQs structured as if the peak of the island was an arena. The sky is now visible, but with the regional temperatures it is never clear. Almost stormy in nature, the cliffs bring about a feeling of malice. The sharp falloff of the cliffs at the isle’s edge match that of a crescent on a tidal wave. If the party chooses to engage against FLOoN, this would certainly be the perfect battlefield.
+
+### FLOoN Lagoon
+
+Hidden away within the Tangle of Delphi, lies the peaceful lagoon used by Veltharion as a place of peace, meditation, and rest. The entrance is that of moving trees, which bend away from one another once the password is entered into the nearby stone wall (see Journey Into the Jungle). Upon entering, the lagoon appears to be a small circle, with an outer ring of mosses and old, broken stone walls., remnants of an old city before the flooding. In the center lies a small pond, topped with a multitude of colorful water lilies and lily pads. The shallow pond is not murky, and actually has perfectly transparent water that lies completely still. The Lagoon has no ambiance, acting as a piece of complete silence and peace. The place feels like it is frozen in time.
+
+## Journey Into the Jungle
+
+By reaching this point in the campaign, the party should now have in their possession: a copy/note of the Poem of the Jungle from the Thousand Isles, the budding White Rose and the inscription from the Tundra Isles, and the Veltharion’s journal entry from the Dead Zone.
+If the party has Veltharion’s Locket from the Junkyard, they can skip the entire final fight by returning it to Veltharion.
+
+From whichever of the islands marked the party’s third piece to the poem, they enter Omphalos Island from its southern beach. The party is aware that this is the home to FLOoN, as well as their militias and resources, so the party must know to be as careful as possible heading into the tangle. This is essentially an espionage mission. 
+As the party makes their way through the dense tangle, there can be numerous moments where Health and group Sneakiness checks are necessary (at GM discretion) where pods of corporate soldiers pass through the tangle, acting as both guards and explorers trying to find the same secret entrance. It is advised in this case for the party to not engage in combat, as this would lead to unwanted attention from FLOoN and will force the party to retreat, pushing them back to the bottom of the tangle (comparable to the story of Sisyphus pushing up the boulder, one mistake and the party must start again).
+When the party finally reaches the clearing of Horizon’s Edge, and they can finally see the light from a crescent moon, they can bring out the White Rose collected from the Tundra Isles. In doing so, the flower will begin to bloom. As the petals expand, the party will begin to hear a slight hum. Ever so growing, the hum will turn to a buzz, and a louder buzz, and a louder buzz. 
+The party will witness a swarm of bees moving out of the clearing towards them, attracted to the rose. The swarm will begin to cycle around the holder of the rose, and a DC 10 Insight check reveals that the swarm is not hostile. Using a Deduction check (GM discretion), a member of the party will be able to decipher that the bees were the clue from the tundra isles. If not attacked or scared off, the bees will take pollen from the rose and fly back the way they came, leading the party to the entrance to FLOoN Lagoon. Additional Tracking, Awareness, or Deduction checks may be necessary to follow the bees through the dense foliage. 
+Moving back into the tangle, the party will continue following the swarm of bees until reaching a wide pass where only one tree resides. A large, grand willow tree is seen, seeming large enough to be viewable from anywhere on the island, yet can only be seen now once directly in front of it. As the party approaches, they should notice a door-like shape in the center of the tree’s trunk, but there is no handle or knob to open with. Looking to the right, they will notice a large stone wall with multiple rings on it. Approaching it will reveal twenty circular rings protruding left to right. A Mechanics or Deduction check at GM discretion will reveal that this is a place to enter a password 20 characters long, but an additional Intuition check will allow the party to cleverly figure out that the passkey comes from the journal and is SKY, with the other seventeen characters remaining obsolete. This solution can also be reached through player knowledge alone, no checks required.
+Once entered, the door within the trunk of the willow will open, and once entering the party will be in FLOoN Lagoon. The silent arena has only one occupant: Veltharion, who is meditating on a throne across from the still water. Upon seeing uninvited guests to her sacred space, Veltharion will attack, setting off the Aeolian Archipelago’s final boss fight. 
+This is NOT a fight that can be won by brute strength or spells, but rather by deducing Veltharion's position, a worried mother trying to protect their child. Veltharion should use a wide range of attacks, both with spells and her staff. Remember to use her Reflect reaction whenever applicable.
+Once the party realizes her connection to Sky and talks her down, or gives her the locket before the fight starts, Veltharion will calm down and approach the party to talk. She will tell her story to the party: how FLOoN forced her to work for them in threatening the safety of her daughter, how she comes to FLOoN Lagoon once a month to meditate, cleanse herself, and hopefully find a way to save Sky, and how she plans to one day overthrow FLOoN.
+
+In agreeing to help Veltharion in this quest, whether directly or indirectly depending on how party chooses to move on from the archipelago, Veltharion will award the party with a gift: Veltharion’s Heaven Sent - a small glass box with a glowing red flower inside, filled with Skycaller energy, and essentially acting as a bomb when opened or broken, dealing 50d6 damage in a half mile radius. Veltharion will then tell the party that she is going back to the skies in search of her daughter, and the party will then remain alone in the calmness of FLOoN Lagoon.
+
+Map
+
+### Moving On
+The campaign of the Aeolian Archipelago has now ended, with the party being rewarded with the powers of the strongest Skycaller through her glass nuke. Players are rewarded with 50 more EXP for their efforts. The party can either choose to keep their treasure and retire back on the Beach, or can choose to explore with their newly acquired tool to another region within the world of Tides for Change. Wherever they go, Sky's the limit!
+
+
+
+
+
 
 
 
