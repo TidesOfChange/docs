@@ -1,13 +1,17 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-
-
+import mdx from "@astrojs/mdx";
+import react from "@astrojs/react";
+import astroExpressiveCode from "astro-expressive-code";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://tidesofchange.github.io",
   base: "/TRPG",
   integrations: [
+    astroExpressiveCode(),
+    mdx(), // markdown with React support
+    react(), // React support in Astro
     starlight({
       title: "Tides of Change",
       logo: {
@@ -82,7 +86,7 @@ export default defineConfig({
             { label: "Cloudrunners", slug: "class/cloudrunners" },
             { label: "Skycallers", slug: "class/skycallers" },
             { label: "Farmers", slug: "class/farmers" },
-            { label: "Seed Keepers", slug: "class/seed-keepers" }
+            { label: "Seed Keepers", slug: "class/seed-keepers" },
           ],
         },
         {
@@ -120,7 +124,7 @@ export default defineConfig({
             {
               label: "Sylvangrove - Session 3: Mycelian",
               slug: "campaigns/session3-mycelian",
-            }
+            },
           ],
         },
         {
