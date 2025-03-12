@@ -1,8 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
-
-
 // https://astro.build/config
 export default defineConfig({
   site: "https://tidesofchange.github.io",
@@ -10,6 +8,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Tides of Change",
+      description: "User manual for the tabletop RPG Tides of Change (Last updated 3/2025)",
       logo: {
         light: "./src/assets/toc_logo.webp",
         dark: "./src/assets/toc_logo_dark.webp",
@@ -20,6 +19,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "Getting Started",
+          collapsed: false,
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Introduction", slug: "getting_started/intro" },
@@ -31,6 +31,7 @@ export default defineConfig({
         },
         {
           label: "Rules",
+          collapsed: true,
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Character Leveling", slug: "rules/character_leveling" },
@@ -44,6 +45,7 @@ export default defineConfig({
         },
         {
           label: "Regions",
+          collapsed: true,
           items: [
             { label: "Map of Regions", slug: "regions/map" },
             { label: "Mainland", slug: "regions/mainland" },
@@ -59,6 +61,7 @@ export default defineConfig({
         },
         {
           label: "Species",
+          collapsed: true,
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Mutated Humans", slug: "species/mutated-humans" },
@@ -71,6 +74,7 @@ export default defineConfig({
         },
         {
           label: "Class",
+          collapsed: true,
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Scavenger", slug: "class/scavenger" },
@@ -87,6 +91,7 @@ export default defineConfig({
         },
         {
           label: "Campaigns",
+          collapsed: true,
           items: [
             // Each item here is one entry in the navigation menu.
             {
@@ -125,6 +130,7 @@ export default defineConfig({
         },
         {
           label: "Character",
+          collapsed: true,
           items: [
             // Each item here is one entry in the navigation menu.
             {
@@ -135,6 +141,7 @@ export default defineConfig({
         },
         {
           label: "Reference",
+          collapsed: true,
           autogenerate: { directory: "reference" },
         },
       ],
