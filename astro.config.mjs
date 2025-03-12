@@ -15,7 +15,7 @@ export default defineConfig({
         dark: "./src/assets/toc_logo_dark.webp",
       },
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/TidesOfChange/docs",
       },
       sidebar: [
         {
