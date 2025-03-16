@@ -7,8 +7,10 @@ export default defineConfig({
   base: "/docs",
   integrations: [
     starlight({
+
+      // general site configuration
       title: "Tides of Change",
-      description: "User manual for the tabletop RPG Tides of Change (Last updated 3/2025)",
+      description: "User manual for the tabletop RPG Tides of Change",
       logo: {
         light: "./src/assets/toc_logo.webp",
         dark: "./src/assets/toc_logo_dark.webp",
@@ -16,6 +18,8 @@ export default defineConfig({
       social: {
         github: "https://github.com/TidesOfChange/docs",
       },
+
+      /* old sidebar configuration
       sidebar: [
         {
           label: "Getting Started",
@@ -145,6 +149,8 @@ export default defineConfig({
           autogenerate: { directory: "reference" },
         },
       ],
+      */
+
     }),
   ],
 });
