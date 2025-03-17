@@ -1,6 +1,8 @@
 ---
 title: Save an Aqualumean child who has become a Murk Dweller
 description: Lumea Campaign 1
+sidebar:
+    hidden: true
 ---
 
 ## Mission 1

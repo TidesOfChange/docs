@@ -1,6 +1,8 @@
 ---
 title: Campaign 1 - Aeolian Archipelago
 description: Aeolian Archipelago Full Campaign
+sidebar:
+    hidden: true
 ---
 
 ## Introduction

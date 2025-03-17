@@ -1,6 +1,8 @@
 ---
 title: Trouble In Karkorte
 description: Karkorte campaign 1
+sidebar:
+   hidden: true
 ---
 
 # Scene 1: Trouble in Karkorte

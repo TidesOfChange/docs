@@ -1,6 +1,8 @@
 ---
 title: Scientists Divided in Atlantis
 description: Lumea Campaign 3
+sidebar:
+    hidden: true
 ---
 
 ## Mission 1: Finding a cause to join amongst the scientists of Atlantis.

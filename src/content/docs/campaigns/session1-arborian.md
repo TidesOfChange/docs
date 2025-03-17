@@ -1,6 +1,8 @@
 ---
 title: Session 1 - Arborian
 description: Karkorte campaign 1
+sidebar:
+    hidden: true
 ---
 
 

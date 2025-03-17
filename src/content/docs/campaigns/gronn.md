@@ -1,6 +1,8 @@
 ---
 title: Campaign #1 - Gronn
 description: Gronn Full Campaign
+sidebar:
+    hidden: true
 ---
 
 ## Summary

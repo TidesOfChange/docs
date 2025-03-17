@@ -1,6 +1,8 @@
 ---
 title: Save Astralyss, the kidnapped Celestial Dragon
 description: Lumea Campaign 2
+sidebar:
+    hidden: true
 ---
 
 ## Mission 1

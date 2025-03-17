@@ -1,6 +1,8 @@
 ---
 title: Session 3 - Mycelian
 description: Karkorte campaign 3
+sidebar:
+    hidden: true
 ---
 
 

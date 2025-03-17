@@ -1,6 +1,8 @@
 ---
 title: Session 2 - Florian
 description: Karkorte campaign 2
+sidebar:
+    hidden: true
 ---
 
 
