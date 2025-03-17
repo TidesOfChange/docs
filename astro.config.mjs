@@ -19,6 +19,58 @@ export default defineConfig({
         github: "https://github.com/TidesOfChange/docs",
       },
 
+      sidebar: [
+        {
+          // main category
+          label: 'Campaigns',
+          collapsed: true,
+
+          // subcategories
+          items: [
+            {
+              label: 'Trouble in Karkorte',
+              autogenerate: { directory: 'campaigns/trouble-in-karkorte' },
+              collapsed: true,
+            },
+            {
+              label: 'Seed Vault Heist',
+              autogenerate: { directory: 'campaigns/seed-vault-heist' },
+              collapsed: true,
+            },
+            {
+              label: 'Roots of Rebellion',
+              autogenerate: { directory: 'campaigns/roots-of-rebellion' },
+              collapsed: true,
+            },
+            {
+              label: 'Age of Atlantis',
+              autogenerate: { directory: 'campaigns/age-of-atlantis' },
+              collapsed: true,
+            },
+            {
+              label: 'Veltharion\'s Quest',
+              autogenerate: { directory: 'campaigns/veltharions-quest' },
+              collapsed: true,
+            },
+            {
+              label: 'What Remains',
+              autogenerate: { directory: 'campaigns/what-remains' },
+              collapsed: true,
+            },
+            {
+              label: 'The War for Ashenvale',
+              autogenerate: { directory: 'campaigns/the-war-for-ashenvale' },
+              collapsed: true,
+            },
+            {
+              label: 'Rinoalk',
+              autogenerate: { directory: 'campaigns/rinoalk' },
+              collapsed: true,
+            },
+          ],
+        },
+      ],
+
       /* old sidebar configuration
       sidebar: [
         {
