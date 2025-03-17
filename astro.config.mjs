@@ -30,6 +30,14 @@ export default defineConfig({
         },
         {
           // main category
+          label: 'GM Guide',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'gm-guide' },
+        },
+        {
+          // main category
           label: 'Rules',
           collapsed: true,
 
