@@ -22,6 +22,46 @@ export default defineConfig({
       sidebar: [
         {
           // main category
+          label: 'Getting Started',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'getting_started' },
+        },
+        {
+          // main category
+          label: 'Rules',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'rules' },
+        },
+        {
+          // main category
+          label: 'Regions',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'regions' },
+        },
+        {
+          // main category
+          label: 'Species',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'species' },
+        },
+        {
+          // main category
+          label: 'Class',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'class' },
+        },
+        {
+          // main category
           label: 'Campaigns',
           collapsed: true,
 
