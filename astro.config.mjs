@@ -26,7 +26,7 @@ export default defineConfig({
           collapsed: true,
 
           // subitems
-          autogenerate: { directory: 'getting_started' },
+          autogenerate: { directory: 'getting-started' },
         },
         {
           // main category
