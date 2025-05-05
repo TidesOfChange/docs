@@ -46,6 +46,14 @@ export default defineConfig({
         },
         {
           // main category
+          label: 'Magic',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'magic' },
+        },
+        {
+          // main category
           label: 'Regions',
           collapsed: true,
 
