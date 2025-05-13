@@ -39,4 +39,15 @@ const { title, description } = Astro.props as Props;
         color: #c9c9c9;
         font-size: 1em;
     }
+    @media (prefers-color-scheme: light) {
+        .card {
+            background-color:#e2e2e2d2
+        }
+        .card h2{
+            color: #424242;
+        }
+        .card p {
+            color: #000000;
+        }
+    }
 </style>
