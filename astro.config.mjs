@@ -54,6 +54,14 @@ export default defineConfig({
         },
         {
           // main category
+          label: 'Frontier',
+          collapsed: true,
+
+          // subitems
+          autogenerate: { directory: 'frontier' },
+        },
+        {
+          // main category
           label: 'Regions',
           collapsed: true,
 
