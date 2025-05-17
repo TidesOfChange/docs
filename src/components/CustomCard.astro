@@ -16,7 +16,7 @@ const { title, description } = Astro.props as Props;
 ---
 
 <div class="not-content card">
-    <h2 style={`border: 2px solid rgba(${titleBorderColor}, .8); background-color: rgba(${titleBackgroundColor}, 0.25);`}>{title}</h2>
+    <h2 style={`border: 2px solid rgba(${titleBorderColor}, .8); background-color: rgba(${titleBackgroundColor}, 0.25); box-shadow: 0 0 0 1px black;`}>{title}</h2>
     <p>{description}</p>
 </div>
 
@@ -29,6 +29,7 @@ const { title, description } = Astro.props as Props;
     .card h2 {
         font-family: 'Tahoma', sans-serif;
         color: #ffffff;
+        text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000;
         padding: 5px;
         border-radius: 5px;
         font-size: 1.4em;
@@ -36,7 +37,6 @@ const { title, description } = Astro.props as Props;
     }
     .card p {
         font-family: 'Tahoma', sans-serif;
-        color: #c9c9c9;
         font-size: 1em;
     }
 </style>
