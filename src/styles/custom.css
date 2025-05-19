@@ -99,8 +99,9 @@ a:where(.astro-g2bywc46)[aria-current='true'] {
     }
 }
 
-.title-wrapper span {
+.title-wrapper a {
     font-family: 'Cinzel Decorative', serif;
+    padding: 4px;
     color: var(--sl-color-white);
 }
 
