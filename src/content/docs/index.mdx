@@ -1,29 +1,45 @@
 ---
-title: Tides of Change Documentation
-description: User manual for the tabletop RPG ToC
-template: splash
-hero:
-  tagline: User manual for the tabletop RPG ToC (Last updated March 2025)
-  image:
-    file: ../../assets/toc_logo.webp
-  actions:
-    - text: Read More
-      link: /docs/getting-started/intro/
-      icon: right-arrow
+title: Tides of Change Handbook
+description: Player handbook for the tabletop RPG Tides of Change
 ---
 
+import { Image } from 'astro:assets';
 import { Card, CardGrid } from '@astrojs/starlight/components';
 import { LinkCard } from '@astrojs/starlight/components';
 
-## Quick Links
+It is many years into Earth’s future. Rising sea levels have submerged much of the planet, and the few remaining land masses suffer from pollution and diminishing resources. Only a few continents remain, with Antarctica, South America, Australia, and Asia completely submerged and evolved into coral reefs. As the planet rapidly changed over the past millennia, so too did its inhabitants. Humans, as we think of them today, have become a minority on the planet they once dominated. In their stead, myriad new species have evolved to adapt to this ever changing environment.
 
-<CardGrid stagger> 
-	<LinkCard
-	title="Character Creation Form"
-	href="./character/form"
-	description="Configure Starlight to support multiple languages."
-	/>
+Survival is the name of the game for most civilizations, each experiencing unique challenges (as well as unique joys!). But can these civilizations learn to start working with each other towards a world that allows for more than just day-to-day survival? Can they ride the tides of change into a better future, or will they drown?
+
+## What Kind of Game is This?
+
+Tides of Change is a collaborative, narrative-driven tabletop roleplaying game set in a world reshaped by ecological collapse and adaptation.
+
+:::note[A note on the subject matter of Tides of Change]
+Tides of Change is set in a world where rising temperatures and sea levels have dramatically reshaped the planet, and all provided lore reflects this transformed climate. The game works best in settings that follow this premise, encouraging players to imagine a civilization that has adapted to or found ways to overcome the long-term consequences of climate change. The rulebook offers additional lore and worldbuilding examples to support your storytelling.
+:::
+
+## Using this Handbook
+
+This handbook serves as a companion on your adventure into the world of Tides of Change. It includes everything you need to create characters, shape your own setting, run campaigns as a storyteller, and explore the lore and mechanics of the game.
+
+The following chapters provide guidance, examples, and tools to help you immerse yourself in the world and story of Tides of Change. Use the sidebar to navigate between sections or jump to what you need when inspiration strikes.
+
+## Getting Started
+
+To begin your journey, head to the Quick Start guide for a quick overview of how to set up a game, or explore the Character Creation section to build your first character sheet.
+
+---
+
+<CardGrid>
+    <LinkCard
+        title="Character Creation"
+        href="./getting-started/character-creation/"
+        description="Configure Starlight to support multiple languages."
+    />
+    <LinkCard
+        title="Quick Start"
+        href="./getting-started/quick-start/"
+        description="Configure Starlight to support multiple languages."
+    />
 </CardGrid>
-
-## World Map
-![Map of Tides of Change](../../assets/map.png)
