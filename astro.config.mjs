@@ -71,11 +71,11 @@ export default defineConfig({
                 },
                 {
                     // main category
-                    label: 'Class',
+                    label: 'Background',
                     collapsed: true,
 
                     // subitems
-                    autogenerate: { directory: 'class' },
+                    autogenerate: { directory: 'background' },
                 },
                 {
                     // main category
