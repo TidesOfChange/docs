@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.28.4",
+    "@fontsource-variable/cinzel": "^5.2.5",
+    "@fontsource/cinzel-decorative": "^5.2.5",
+    "@fontsource/lora": "^5.2.5",
     "astro": "^4.16.12",
     "sharp": "^0.32.5"
   }
