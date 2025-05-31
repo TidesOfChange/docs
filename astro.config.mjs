@@ -140,6 +140,14 @@ export default defineConfig({
                         },
                     ],
                 },
+                {
+                    // main category
+                    label: 'Economic System',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'economics' },
+                },
             ],
 
             /* old sidebar configuration
