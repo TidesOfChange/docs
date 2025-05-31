@@ -1,125 +1,148 @@
-import { defineConfig } from "astro/config";
-import starlight from "@astrojs/starlight";
+import { defineConfig } from 'astro/config';
+import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://tidesofchange.github.io",
-  base: "/docs",
-  integrations: [
-    starlight({
-
-      // general site configuration
-      title: "Tides of Change",
-      description: "User manual for the tabletop RPG Tides of Change",
-      logo: {
-        light: "./src/assets/toc_logo.webp",
-        dark: "./src/assets/toc_logo_dark.webp",
-      },
-      social: {
-        github: "https://github.com/TidesOfChange/docs",
-      },
-
-      sidebar: [
-        {
-          // main category
-          label: 'Getting Started',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'getting-started' },
-        },
-        {
-          // main category
-          label: 'GM Guide',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'gm-guide' },
-        },
-        {
-          // main category
-          label: 'Rules',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'rules' },
-        },
-        {
-          // main category
-          label: 'Regions',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'regions' },
-        },
-        {
-          // main category
-          label: 'Species',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'species' },
-        },
-        {
-          // main category
-          label: 'Class',
-          collapsed: true,
-
-          // subitems
-          autogenerate: { directory: 'class' },
-        },
-        {
-          // main category
-          label: 'Campaigns',
-          collapsed: true,
-
-          // subcategories
-          items: [
-            {
-              label: 'Trouble in Karkorte',
-              autogenerate: { directory: 'campaigns/trouble-in-karkorte' },
-              collapsed: true,
+    site: 'https://tidesofchange.github.io',
+    base: '/docs',
+    integrations: [
+        starlight({
+            // general site configuration
+            title: 'Tides of Change',
+            customCss: [
+                './src/styles/custom.css',
+                '@fontsource-variable/cinzel',
+                '@fontsource/cinzel-decorative',
+                '@fontsource/lora',
+            ],
+            description: 'User manual for the tabletop RPG Tides of Change',
+            social: {
+                github: 'https://github.com/TidesOfChange/docs',
             },
-            {
-              label: 'Seed Vault Heist',
-              autogenerate: { directory: 'campaigns/seed-vault-heist' },
-              collapsed: true,
-            },
-            {
-              label: 'Roots of Rebellion',
-              autogenerate: { directory: 'campaigns/roots-of-rebellion' },
-              collapsed: true,
-            },
-            {
-              label: 'Age of Atlantis',
-              autogenerate: { directory: 'campaigns/age-of-atlantis' },
-              collapsed: true,
-            },
-            {
-              label: 'Veltharion\'s Quest',
-              autogenerate: { directory: 'campaigns/veltharions-quest' },
-              collapsed: true,
-            },
-            {
-              label: 'What Remains',
-              autogenerate: { directory: 'campaigns/what-remains' },
-              collapsed: true,
-            },
-            {
-              label: 'The War for Ashenvale',
-              autogenerate: { directory: 'campaigns/the-war-for-ashenvale' },
-              collapsed: true,
-            },
-            {
-              label: 'Rinoalk',
-              autogenerate: { directory: 'campaigns/rinoalk' },
-              collapsed: true,
-            },
-          ],
-        },
-      ],
 
-      /* old sidebar configuration
+            sidebar: [
+                {
+                    // main category
+                    label: 'Getting Started',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'getting-started' },
+                },
+                {
+                    // main category
+                    label: 'GM Guide',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'gm-guide' },
+                },
+                {
+                    // main category
+                    label: 'Rules',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'rules' },
+                },
+                {
+                    // main category
+                    label: 'Magic',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'magic' },
+                },
+                {
+                    // main category
+                    label: 'Regions',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'regions' },
+                },
+                {
+                    // main category
+                    label: 'Species',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'species' },
+                },
+                {
+                    // main category
+                    label: 'Background',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'background' },
+                },
+                {
+                    // main category
+                    label: 'Campaigns',
+                    collapsed: true,
+
+                    // subcategories
+                    items: [
+                        {
+                            label: 'Trouble in Karkorte',
+                            autogenerate: {
+                                directory: 'campaigns/trouble-in-karkorte',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'Seed Vault Heist',
+                            autogenerate: {
+                                directory: 'campaigns/seed-vault-heist',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'Roots of Rebellion',
+                            autogenerate: {
+                                directory: 'campaigns/roots-of-rebellion',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'Age of Atlantis',
+                            autogenerate: {
+                                directory: 'campaigns/age-of-atlantis',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: "Veltharion's Quest",
+                            autogenerate: {
+                                directory: 'campaigns/veltharions-quest',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'What Remains',
+                            autogenerate: {
+                                directory: 'campaigns/what-remains',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'The War for Ashenvale',
+                            autogenerate: {
+                                directory: 'campaigns/the-war-for-ashenvale',
+                            },
+                            collapsed: true,
+                        },
+                        {
+                            label: 'Rinoalk',
+                            autogenerate: { directory: 'campaigns/rinoalk' },
+                            collapsed: true,
+                        },
+                    ],
+                },
+            ],
+
+            /* old sidebar configuration
       sidebar: [
         {
           label: "Getting Started",
@@ -250,7 +273,6 @@ export default defineConfig({
         },
       ],
       */
-
-    }),
-  ],
+        }),
+    ],
 });
