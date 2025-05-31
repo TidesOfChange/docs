@@ -60,6 +60,10 @@ h2 {
     font-family: 'Cinzel Variable', serif;
 }
 
+h4 {
+    font-size: 1.12em !important;
+}
+
 body {
     font-family: 'Lora', serif;
 }
@@ -114,4 +118,8 @@ a:where(.astro-g2bywc46)[aria-current='true'] {
 p {
     color: var(--sl-color-white) !important;
     font-family: 'Lora', serif;
+}
+
+.heading-shipwreck {
+    color: #8b0000; /* Dark red */
 }
