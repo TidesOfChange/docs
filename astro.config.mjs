@@ -59,14 +59,6 @@ export default defineConfig({
                     collapsed: true,
 
                     // subitems
-                    autogenerate: { directory: 'regions' },
-                },
-                {
-                    // main category
-                    label: 'Species',
-                    collapsed: true,
-
-                    // subitems
                     autogenerate: { directory: 'species' },
                 },
                 {
