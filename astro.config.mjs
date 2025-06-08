@@ -47,15 +47,7 @@ export default defineConfig({
                 },
                 {
                     // main category
-                    label: 'Magic',
-                    collapsed: true,
-
-                    // subitems
-                    autogenerate: { directory: 'magic' },
-                },
-                {
-                    // main category
-                    label: 'Regions',
+                    label: 'Species',
                     collapsed: true,
 
                     // subitems
@@ -68,6 +60,30 @@ export default defineConfig({
 
                     // subitems
                     autogenerate: { directory: 'backgrounds' },
+                },
+                {
+                    // main category
+                    label: 'Magic',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'magic' },
+                },
+                {
+                    // main category
+                    label: 'Frontier',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'frontier' },
+                },
+                {
+                    // main category
+                    label: 'Territories',
+                    collapsed: true,
+
+                    // subitems
+                    autogenerate: { directory: 'territories' },
                 },
                 {
                     // main category
@@ -126,8 +142,10 @@ export default defineConfig({
                             collapsed: true,
                         },
                         {
-                            label: 'Rinoalk',
-                            autogenerate: { directory: 'campaigns/rinoalk' },
+                            label: 'Coastal Crisis',
+                            autogenerate: {
+                                directory: 'campaigns/coastal-crisis',
+                            },
                             collapsed: true,
                         },
                     ],
@@ -141,138 +159,6 @@ export default defineConfig({
                     autogenerate: { directory: 'economics' },
                 },
             ],
-
-            /* old sidebar configuration
-      sidebar: [
-        {
-          label: "Getting Started",
-          collapsed: false,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Introduction", slug: "getting_started/intro" },
-            {
-              label: "Character Creation",
-              slug: "getting_started/character_creation",
-            },
-          ],
-        },
-        {
-          label: "Rules",
-          collapsed: true,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Character Leveling", slug: "rules/character_leveling" },
-            { label: "Checks", slug: "rules/checks" },
-            { label: "Combat", slug: "rules/combat" },
-            { label: "Heath/Damage", slug: "rules/health_damage" },
-            { label: "Magic", slug: "rules/magic" },
-            { label: "Equipment", slug: "rules/equipment" },
-            { label: "Technology", slug: "rules/technology" },
-          ],
-        },
-        {
-          label: "Regions",
-          collapsed: true,
-          items: [
-            { label: "Map of Regions", slug: "regions/map" },
-            { label: "Mainland", slug: "regions/mainland" },
-            {
-              label: "Aeolian Archipelago",
-              slug: "regions/aeolian_archipelago",
-            },
-            { label: "Lumea", slug: "regions/lumea" },
-            { label: "Karkorte", slug: "regions/karkorte" },
-            { label: "Grønn Verden", slug: "regions/grønn-verden" },
-            { label: "Sylvangrove", slug: "regions/sylvangrove" },
-          ],
-        },
-        {
-          label: "Species",
-          collapsed: true,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Mutated Humans", slug: "species/mutated-humans" },
-            { label: "Woodland Creatures", slug: "species/woodland-creatures" },
-            { label: "Bird Pirates", slug: "species/bird-pirates" },
-            { label: "Ecotopians", slug: "species/ecotopians" },
-            { label: "Aqualumeans", slug: "species/aqualumeans" },
-            { label: "Lumea Humans", slug: "species/lumea-humans" },
-          ],
-        },
-        {
-          label: "Class",
-          collapsed: true,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Scavenger", slug: "class/scavenger" },
-            { label: "Hunter", slug: "class/hunter" },
-            { label: "Ranger", slug: "class/ranger" },
-            { label: "Enchanter", slug: "class/enchanter" },
-            { label: "Ecotechnicians", slug: "class/ecotechnicians" },
-            { label: "Public Servants", slug: "class/public-servants" },
-            { label: "Cloudrunners", slug: "class/cloudrunners" },
-            { label: "Skycallers", slug: "class/skycallers" },
-            { label: "Farmers", slug: "class/farmers" },
-            { label: "Seed Keepers", slug: "class/seed-keepers" }
-          ],
-        },
-        {
-          label: "Campaigns",
-          collapsed: true,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "The Aeolian Archipelago - Campaign",
-              slug: "campaigns/archipelago",
-            },
-            {
-              label: "Karkorte - Trouble in Karkorte",
-              slug: "campaigns/trouble-in-karkorte",
-            },
-            {
-              label: "Lumea - Save an Aqualumean child",
-              slug: "campaigns/save-aqualumean-child",
-            },
-            {
-              label: "Lumea - Save Astralyss, the kidnapped Celestial Dragon",
-              slug: "campaigns/save-astralyss",
-            },
-            {
-              label: "Lumea - Scientists Divided in Atlantis",
-              slug: "campaigns/scientists-divided-in-atlantis",
-            },
-            {
-              label: "Sylvangrove - Session 1: Arborian",
-              slug: "campaigns/session1-arborian",
-            },
-            {
-              label: "Sylvangrove - Session 2: Florian",
-              slug: "campaigns/session2-florian",
-            },
-            {
-              label: "Sylvangrove - Session 3: Mycelian",
-              slug: "campaigns/session3-mycelian",
-            }
-          ],
-        },
-        {
-          label: "Character",
-          collapsed: true,
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "Character Creation Form",
-              slug: "character/form",
-            },
-          ],
-        },
-        {
-          label: "Reference",
-          collapsed: true,
-          autogenerate: { directory: "reference" },
-        },
-      ],
-      */
         }),
     ],
 });
