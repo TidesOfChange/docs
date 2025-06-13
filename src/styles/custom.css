@@ -89,6 +89,19 @@ a:where(.astro-g2bywc46)[aria-current='true'] {
     }
 }
 
+.sl-link-button {
+    background-color: var(--sl-color-gray-6) !important;
+    border-radius: 0.5em;
+    padding: 0.7em !important;
+    font-family: 'Cinzel Variable';
+    font-size: 0.9em;
+    transition: filter 0.1s ease;
+    margin-bottom: 0 !important;
+    &:hover {
+        filter: brightness(0.95);
+    }
+}
+
 :root[data-theme='light'] .pagination-links a {
     background-color: var(--sl-color-gray-7);
     &:hover {
