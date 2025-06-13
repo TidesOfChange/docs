@@ -89,20 +89,17 @@ a:where(.astro-g2bywc46)[aria-current='true'] {
     }
 }
 
-.sl-link-button {
+#download-link {
     background-color: var(--sl-color-gray-6) !important;
     border-radius: 0.5em !important;
     padding: 0.7em !important;
     font-size: 0.9em !important;
     transition: filter 0.1s ease;
     margin-bottom: 0 !important;
+    font-weight: 600;
     &:hover {
         filter: brightness(0.95);
     }
-}
-.sl-link-button p {
-    font-family: 'Cinzel Variable', serif !important;
-    font-weight: 600;
 }
 
 :root[data-theme='light'] .pagination-links a {
